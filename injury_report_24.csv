@@ -1,0 +1,776 @@
+﻿Name,Team,Pos,Injury / Surgery Date,Injury / Surgery,Status,IL Retro Date,Eligible to Return,Return Date,Latest Update,NameASCII,PlayerId,MLBAMID
+Chris Martin,BOS,RP,Jun '24,Anxiety,Activated,06/02/24,06/17/24,06/18/24,Activated,Chris Martin,11847,455119
+Walker Buehler,LAD,SP,08/23/22,Tommy John surgery,Activated,03/17/24,04/07/24,05/06/24,Activated,Walker Buehler,19374,621111
+Shane Baz,TBR,SP,09/28/22,Tommy John surgery,Activated,03/25/24,04/09/24,05/23/24,Activated,Shane Baz,22264,669358
+Lucas Gilbreath,COL,RP,03/14/23,Tommy John surgery,Activated,03/25/24,05/24/24,08/16/24,Activated,Lucas Gilbreath,21290,656458
+Cade Cavalli,WSN,SP,03/22/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Cade Cavalli,27473,676917
+Matt Foster,CHW,RP,04/01/23,Tommy John surgery,Activated,03/28/24,05/27/24,08/16/24,Activated,Matt Foster,19647,641582
+Carson Coleman,TEX,RP,04/01/23,Elbow surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Carson Coleman,sa3014857,679693
+JT Brubaker,NYY,SP,04/12/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,JT Brubaker,17578,664141
+Jeffrey Springs,TBR,SP,04/24/23,Tommy John surgery,Activated,03/28/24,05/27/24,07/28/24,Activated,Jeffrey Springs,17677,605488
+Kris Bubic,KCR,SP,04/26/23,Tommy John surgery,Activated,03/28/24,05/27/24,07/06/24,Activated,Kris Bubic,21455,663460
+Lou Trivino,NYY,RP,05/03/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Lou Trivino,15043,642152
+Robbie Ray,SFG,SP,05/03/23,Tommy John surgery,Activated,03/28/24,05/27/24,07/24/24,Activated,Robbie Ray,11486,592662
+Germán Márquez,COL,SP,05/12/23,Tommy John surgery,Activated,03/28/24,05/27/24,07/14/24,Activated,German Marquez,15038,608566
+José Quijada,LAA,RP,05/17/23,Tommy John surgery,Activated,03/28/24,05/27/24,07/22/24,Activated,Jose Quijada,19200,650671
+Austin Warren,SFG,RP,05/17/23,Tommy John surgery,Activated,03/28/24,05/27/24,07/13/24,Activated,Austin Warren,24937,681810
+Luis Garcia,HOU,SP,05/19/23,Tommy John surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Luis Garcia,23735,677651
+Tyler Mahle,TEX,SP,05/22/23,Tommy John surgery,Activated,03/28/24,05/27/24,08/06/24,Activated,Tyler Mahle,16358,641816
+Penn Murfee,HOU,RP,06/01/23,Elbow surgery (UCL),Activated,03/25/24,05/24/24,09/30/24,Activated,Penn Murfee,25174,682171
+Jacob deGrom,TEX,SP,06/12/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/13/24,Activated,Jacob deGrom,10954,594798
+Lance McCullers Jr.,HOU,SP,06/13/23,Elbow surgery (flexor tendon/bone spur),Activated,03/28/24,05/27/24,09/30/24,Activated,Lance McCullers Jr.,14120,621121
+Matthew Boyd,CLE,SP,06/28/23,Tommy John surgery,Activated,06/29/24,07/14/24,08/13/24,Activated,Matthew Boyd,15440,571510
+Drew Rasmussen,TBR,SP,07/01/23,Elbow surgery (internal brace),Activated,03/28/24,05/27/24,08/07/24,Activated,Drew Rasmussen,25385,656876
+Dustin May,LAD,SP,07/18/23,Tommy John revision surgery,Activated,03/20/24,05/19/24,09/30/24,Activated,Dustin May,19716,669160
+Antonio Senzatela,COL,SP,07/26/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/17/24,Activated,Antonio Senzatela,15488,622608
+Liam Hendriks,BOS,RP,08/02/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Liam Hendriks,3548,521230
+Tucupita Marcano,SDP,INF/OF,08/09/23,Knee surgery (torn ACL),Activated,03/17/24,04/02/24,06/04/24,Activated,Tucupita Marcano,22871,672779
+Shane McClanahan,TBR,SP,08/21/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Shane McClanahan,21483,663556
+Stone Garrett,WSN,OF,08/23/23,Fractured leg (fibula),Activated,03/25/24,04/04/24,04/25/24,Activated,Stone Garrett,19273,656448
+Freddy Tarnok,OAK,SP,08/30/23,Hip surgery,Activated,03/25/24,05/24/24,06/01/24,Activated,Freddy Tarnok,23324,676206
+Sam Bachman,LAA,SP,09/01/23,Arthroscopic shoulder surgery,Activated,03/28/24,05/27/24,06/14/24,Activated,Sam Bachman,29754,696147
+Tony Gonsolin,LAD,SP,09/01/23,Tommy John surgery,Activated,03/20/24,05/19/24,09/30/24,Activated,Tony Gonsolin,19388,664062
+Josh Winder,MIN,RP,09/01/23,Shoulder discomfort (scapular stress fracture),Activated,03/28/24,05/27/24,05/27/24,Activated,Josh Winder,24606,680739
+Tommy Kahnle,NYY,RP,09/20/23,Shoulder inflammation,Activated,03/25/24,04/09/24,05/22/24,Activated,Tommy Kahnle,11384,592454
+Jasson Domínguez,NYY,OF,09/20/23,Tommy John surgery,Activated,03/28/24,05/27/24,06/12/24,Activated,Jasson Dominguez,28080,691176
+Drey Jameson,ARI,RP,09/27/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Drey Jameson,26260,686753
+John Means,BAL,SP,10/01/23,Strained forearm,Activated,03/25/24,04/09/24,05/01/24,Activated,John Means,16269,607644
+Tommy Edman,LAD,OF/INF,10/01/23,Arthroscopic wrist surgery,Activated,03/25/24,05/24/24,08/19/24,Activated,Tommy Edman,19470,669242
+Jonathan Hernández,TEX,RP,10/01/23,Strained lat,Activated,03/25/24,04/09/24,04/22/24,Activated,Jonathan Hernandez,17464,642546
+Angel Perdomo,ATL,RP,10/06/23,Tommy John surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Angel Perdomo,17759,622780
+Sandy Alcantara,MIA,SP,10/06/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Sandy Alcantara,18684,645261
+Félix Bautista,BAL,RP,10/09/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Felix Bautista,20666,642585
+Kyle Wright,KCR,SP,10/11/23,Shoulder surgery (torn capsule),Activated,03/28/24,05/27/24,09/30/24,Activated,Kyle Wright,19665,657140
+Brandon Woodruff,MIL,SP,10/13/23,Shoulder surgery (anterior capsule repair),Activated,03/28/24,05/27/24,09/30/24,Activated,Brandon Woodruff,16162,605540
+Taylor Walls,TBR,INF,10/30/23,Hip surgery (labrum repair),Activated,03/25/24,05/24/24,06/07/24,Activated,Taylor Walls,22458,670764
+Alex Cobb,CLE,SP,10/31/23,Hip surgery (labrum repair),Activated,03/25/24,05/24/24,08/09/24,Activated,Alex Cobb,6562,502171
+Clayton Kershaw,LAD,SP,11/03/23,Shoulder surgery (glenohumeral ligaments and capsu,Activated,03/20/24,05/19/24,07/25/24,Activated,Clayton Kershaw,2036,477132
+David Peterson,NYM,SP,11/06/23,Hip surgery (labrum repair),Activated,03/28/24,05/27/24,05/29/24,Activated,David Peterson,20302,656849
+Scott Effross,NYY,RP,12/01/23,Back surgery,Activated,03/28/24,05/27/24,07/15/24,Activated,Scott Effross,18384,664123
+Johan Oviedo,PIT,SP,12/06/23,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Johan Oviedo,22487,670912
+Endy Rodríguez,PIT,C,12/12/23,Elbow/Flexor tendon surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Endy Rodriguez,25332,682848
+Max Scherzer,TEX,SP,12/14/23,Back surgery (herniated disc),Activated,03/25/24,05/24/24,06/23/24,Activated,Max Scherzer,3137,453286
+Sean Newcomb,OAK,SP,12/20/23,Arthroscopic knee surgery,Activated,03/25/24,05/24/24,06/04/24,Activated,Sean Newcomb,16943,656794
+Randal Grichuk,ARI,OF,01/01/24,Ankle procedure (bone spur removal),Activated,03/25/24,04/04/24,04/05/24,Activated,Randal Grichuk,10243,545341
+Kyle Bradish,BAL,SP,01/01/24,Sprained elbow,Activated,03/25/24,04/09/24,05/02/24,Activated,Kyle Bradish,24586,680694
+Kendall Graveman,HOU,RP,01/01/24,Shoulder surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Kendall Graveman,15514,608665
+Ronny Mauricio,NYM,INF,01/02/24,Knee surgery (torn ACL),Activated,03/28/24,05/27/24,09/30/24,Activated,Ronny Mauricio,23698,677595
+Sam Moll,CIN,RP,02/01/24,Shoulder impingement,Activated,03/25/24,04/09/24,04/23/24,Activated,Sam Moll,14874,594580
+Alex Young,CIN,RP,02/01/24,Back tightness,Activated,03/25/24,05/24/24,05/28/24,Activated,Alex Young,18333,622065
+James Karinchak,CLE,RP,02/01/24,Shoulder inflammation,Activated,03/25/24,05/24/24,09/30/24,Activated,James Karinchak,20151,675916
+Justin Verlander,HOU,SP,02/01/24,Shoulder inflammation,Activated,03/25/24,04/09/24,04/19/24,Activated,Justin Verlander,8700,434378
+Shawn Dubin,HOU,SP,02/01/24,Strained forearm,Activated,03/25/24,04/09/24,04/13/24,Activated,Shawn Dubin,24977,681869
+Carlos Hernández,KCR,RP,02/01/24,Shoulder soreness,Activated,03/25/24,04/09/24,05/24/24,Activated,Carlos Hernandez,22713,672578
+JT Chargois,MIA,RP,02/01/24,Neck spasms,Activated,03/25/24,05/24/24,06/12/24,Activated,JT Chargois,13767,608638
+Braxton Garrett,MIA,SP,02/01/24,Shoulder impingement,Activated,03/25/24,04/09/24,05/08/24,Activated,Braxton Garrett,21844,666129
+Wade Miley,MIL,SP,02/01/24,Shoulder impingement,Activated,03/25/24,04/09/24,04/10/24,Activated,Wade Miley,8779,489119
+Caleb Thielbar,MIN,RP,02/01/24,Strained hamstring,Activated,03/25/24,04/09/24,04/14/24,Activated,Caleb Thielbar,10078,573204
+Zack Weiss,MIN,RP,02/01/24,Strained shoulder (teres major),Activated,03/25/24,05/24/24,07/17/24,Activated,Zack Weiss,15444,592848
+McKinley Moore,NYY,RP,02/01/24,Knee bursitis,Activated,03/25/24,04/09/24,04/13/24,Activated,McKinley Moore,25663,686842
+Glenn Otto,SDP,SP,02/01/24,Strained shoulder (teres major),Activated,03/17/24,04/07/24,06/25/24,Activated,Glenn Otto,21366,657248
+Eduard Bazardo,SEA,RP,02/01/24,Strained shoulder (rotator cuff),Activated,03/25/24,04/09/24,05/08/24,Activated,Eduard Bazardo,20997,660825
+Kodai Senga,NYM,SP,02/21/24,Strained shoulder (posterior capsule),Activated,03/25/24,05/24/24,07/26/24,Activated,Kodai Senga,31838,673540
+Shane Drohan,CHW,SP,02/22/24,Shoulder surgery (nerve decompression),Activated,03/25/24,05/24/24,06/09/24,Activated,Shane Drohan,sa3014447,675660
+Bryan Mata,BOS,RP,02/24/24,Strained hamstring,Activated,03/25/24,05/24/24,09/30/24,Activated,Bryan Mata,sa917784,667356
+Michael Stefanic,LAA,INF,02/24/24,Strained quad,Activated,03/25/24,05/24/24,05/29/24,Activated,Michael Stefanic,25353,683021
+Max Kranick,NYM,SP,02/26/24,Strained hamstring,Activated,03/25/24,04/09/24,04/23/24,Activated,Max Kranick,22175,668820
+Aledmys Díaz,OAK,INF/OF,02/26/24,Strained calf,Activated,03/25/24,05/24/24,05/28/24,Activated,Aledmys Diaz,15937,649557
+Alek Manoah,TOR,SP,02/27/24,Shoulder inflammation,Activated,03/25/24,04/09/24,05/05/24,Activated,Alek Manoah,26410,666201
+Sean Hjelle,SFG,SP,02/28/24,Strained elbow,Activated,03/25/24,04/09/24,04/20/24,Activated,Sean Hjelle,21481,663546
+Vaughn Grissom,BOS,2B,03/01/24,Strained hamstring,Activated,03/25/24,04/04/24,05/03/24,Activated,Vaughn Grissom,26031,687093
+Jesse Scholtens,CHW,SP,03/01/24,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Jesse Scholtens,19205,669947
+Ben Lively,CLE,SP,03/01/24,Viral illness,Activated,03/25/24,04/09/24,04/17/24,Activated,Ben Lively,14932,594902
+Trevor Stephan,CLE,RP,03/01/24,Elbow surgery (UCL),Activated,03/25/24,05/24/24,09/30/24,Activated,Trevor Stephan,19932,663986
+Xzavion Curry,CLE,SP,03/01/24,Viral illness,Activated,03/25/24,04/09/24,04/15/24,Activated,Xzavion Curry,25595,675540
+Gerrit Cole,NYY,SP,03/01/24,Elbow inflammation,Activated,03/28/24,05/27/24,06/19/24,Activated,Gerrit Cole,13125,543037
+Dylan Covey,PHI,RP,03/01/24,Strained shoulder,Activated,03/25/24,05/24/24,08/27/24,Activated,Dylan Covey,14825,592229
+Michael Rucker,PHI,RP,03/01/24,Finger numbness,Activated,03/25/24,05/24/24,07/26/24,Activated,Michael Rucker,19454,621074
+Orion Kerkering,PHI,RP,03/01/24,Strained forearm,Activated,03/25/24,04/09/24,04/14/24,Activated,Orion Kerkering,31776,689147
+Yasmani Grandal,PIT,C,03/01/24,Plantar fascitis,Activated,03/25/24,04/04/24,05/03/24,Activated,Yasmani Grandal,11368,518735
+Colin Holderman,PIT,RP,03/01/24,Illness,Activated,03/25/24,04/09/24,04/11/24,Activated,Colin Holderman,22361,670059
+Sam Haggerty,SEA,INF/OF,03/01/24,Medical procedure,Activated,03/25/24,04/04/24,04/17/24,Activated,Sam Haggerty,18054,664059
+Michael Lorenzen,TEX,SP,03/01/24,Strained neck,Activated,03/25/24,04/09/24,04/15/24,Activated,Michael Lorenzen,14843,547179
+Mason Thompson,WSN,RP,03/01/24,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Mason Thompson,21850,666168
+Jose A. Ferrer,WSN,RP,03/01/24,Strained upper back,Activated,03/28/24,05/27/24,07/19/24,Activated,Jose A. Ferrer,24017,678606
+Brusdar Graterol,LAD,RP,03/02/24,Shoulder inflammation,Activated,03/17/24,05/22/24,08/05/24,Activated,Brusdar Graterol,20367,660813
+Lars Nootbaar,STL,OF,03/02/24,Non-displaced rib fractures,Activated,03/25/24,04/04/24,04/11/24,Activated,Lars Nootbaar,21454,663457
+Luis Medina,OAK,SP,03/04/24,Sprained knee,Activated,03/25/24,05/24/24,06/02/24,Activated,Luis Medina,21649,665622
+Tristan Beck,SFG,SP,03/04/24, Vascular surgery (upper arm aneurysm),Activated,03/28/24,05/27/24,09/01/24,Activated,Tristan Beck,21584,663941
+Sonny Gray,STL,SP,03/04/24,Strained hamstring,Activated,03/25/24,04/09/24,04/09/24,Activated,Sonny Gray,12768,543243
+Caleb Kilian,CHC,SP,03/05/24,Strained shoulder,Activated,03/28/24,05/27/24,07/31/24,Activated,Caleb Kilian,26213,668873
+Xavier Edwards,MIA,INF/OF,03/05/24,Foot infection,Activated,03/25/24,05/24/24,05/27/24,Activated,Xavier Edwards,22266,669364
+Devin Williams,MIL,RP,03/05/24,Stress fractures in back,Activated,03/25/24,05/24/24,07/28/24,Activated,Devin Williams,15816,642207
+Ji Hwan Bae,PIT,INF/OF,03/05/24,Strained hip,Activated,03/25/24,04/04/24,04/15/24,Activated,Ji Hwan Bae,23818,678225
+Nathaniel Lowe,TEX,1B,03/05/24,Strained oblique,Activated,03/25/24,04/04/24,04/20/24,Activated,Nathaniel Lowe,19566,663993
+Oswald Peraza,NYY,INF,03/06/24,Strained shoulder,Activated,03/25/24,04/04/24,05/19/24,Activated,Oswald Peraza,22823,672724
+Scott Alexander,OAK,RP,03/06/24,Stress reaction in rib,Activated,03/25/24,04/09/24,05/21/24,Activated,Scott Alexander,10591,518397
+Rafael Marchán,PHI,C,03/07/24,Back discomfort,Activated,03/25/24,04/04/24,05/27/24,Activated,Rafael Marchan,21646,665561
+Sam Hentges,CLE,SP,03/08/24,Finger inflammation,Activated,03/25/24,04/09/24,05/06/24,Activated,Sam Hentges,18548,656529
+Jameson Taillon,CHC,SP,03/09/24,Strained lower back,Activated,03/25/24,04/09/24,04/18/24,Activated,Jameson Taillon,11674,592791
+Jake Brentz,KCR,RP,03/09/24,Strained hamstring,Activated,03/25/24,04/09/24,05/20/24,Activated,Jake Brentz,17783,641394
+Blake Treinen,LAD,RP,03/09/24,Bruised lung,Activated,03/17/24,04/07/24,05/05/24,Activated,Blake Treinen,12572,595014
+Gavin Williams,CLE,SP,03/10/24,Elbow inflammation,Activated,03/25/24,05/24/24,06/30/24,Activated,Gavin Williams,30122,668909
+Edward Cabrera,MIA,RP,03/10/24,Shoulder impingement,Activated,03/25/24,04/09/24,04/15/24,Activated,Edward Cabrera,21690,665795
+Jonny DeLuca,TBR,OF,03/10/24,Fractured hand,Activated,03/25/24,04/04/24,05/03/24,Activated,Jonny DeLuca,26365,676356
+Jordan Romano,TOR,RP,03/10/24,Elbow inflammation,Activated,03/25/24,04/09/24,04/16/24,Activated,Jordan Romano,16122,605447
+Gregory Santos,SEA,RP,03/11/24,Strained lat,Activated,03/25/24,05/24/24,07/08/24,Activated,Gregory Santos,21894,666619
+Lucas Giolito,BOS,SP,03/12/24,Elbow surgery (internal brace),Activated,03/28/24,05/27/24,09/30/24,Activated,Lucas Giolito,15474,608337
+Rob Refsnyder,BOS,OF,03/12/24,Fractured toe,Activated,03/25/24,04/04/24,04/18/24,Activated,Rob Refsnyder,13770,608701
+Josh Taylor,KCR,RP,03/12/24,Biceps soreness,Activated,03/25/24,05/24/24,09/30/24,Activated,Josh Taylor,17359,657031
+Taj Bradley,TBR,SP,03/12/24,Strained pectoral,Activated,03/25/24,04/09/24,05/08/24,Activated,Taj Bradley,22543,671737
+Patrick Wisdom,CHC,INF/OF,03/13/24,Strained back,Activated,03/25/24,04/04/24,04/18/24,Activated,Patrick Wisdom,13602,621550
+Kelvin Cáceres,LAA,RP,03/13/24,Strained lat,Activated,05/09/24,07/08/24,09/30/24,Activated,Kelvin Caceres,24681,680983
+Jhoan Duran,MIN,RP,03/13/24,Strained oblique,Activated,03/25/24,04/09/24,04/30/24,Activated,Jhoan Duran,21029,661395
+Carmen Mlodzinski,PIT,RP,03/13/24,Elbow inflammation,Activated,03/25/24,04/09/24,04/10/24,Activated,Carmen Mlodzinski,27572,669387
+Ethan Small,SFG,RP,03/13/24,Strained oblique,Activated,03/28/24,05/27/24,08/16/24,Activated,Ethan Small,26364,663629
+Danny Jansen,TOR,C,03/13/24,Fractured pisiform bone (right wrist),Activated,03/25/24,04/04/24,04/15/24,Activated,Danny Jansen,16535,643376
+Erik Swanson,TOR,RP,03/13/24,Forearm inflammation,Activated,03/25/24,04/09/24,04/16/24,Activated,Erik Swanson,16587,657024
+Justin Topa,MIN,RP,03/15/24,Patellar tendinitis (left knee),Activated,03/25/24,05/24/24,09/25/24,Activated,Justin Topa,15145,623437
+Jackson Kowar,SEA,RP,03/15/24,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Jackson Kowar,21549,663804
+Nick Lodolo,CIN,SP,03/16/24,Calf tenosynovitis,Activated,03/25/24,04/09/24,04/13/24,Activated,Nick Lodolo,26378,666157
+TJ Friedl,CIN,OF,03/16/24,Non-displaced wrist fracture,Activated,03/25/24,04/04/24,05/07/24,Activated,TJ Friedl,19522,670770
+Michael Massey,KCR,2B,03/16/24,Lower back tightness,Activated,03/25/24,04/04/24,04/19/24,Activated,Michael Massey,27684,686681
+DJ LeMahieu,NYY,INF,03/16/24,Fractured foot (non-displaced),Activated,03/25/24,05/24/24,05/28/24,Activated,DJ LeMahieu,9874,518934
+Brandon Williamson,CIN,SP,03/17/24,Strained shoulder,Activated,03/25/24,05/24/24,09/01/24,Activated,Brandon Williamson,25463,682227
+Jonathan Aranda,TBR,INF/OF,03/17/24,Fractured finger (right ring),Activated,03/25/24,04/04/24,05/14/24,Activated,Jonathan Aranda,21837,666018
+Josh Lowe,TBR,OF,03/17/24,Strained oblique,Activated,03/25/24,04/04/24,05/06/24,Activated,Josh Lowe,19953,666139
+Eduardo Rodriguez,ARI,SP,03/19/24,Strained lat,Activated,03/25/24,05/24/24,08/06/24,Activated,Eduardo Rodriguez,13164,593958
+Dauri Moreta,PIT,SP,03/21/24,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Dauri Moreta,21101,664294
+Paul Sewald,ARI,RP,03/23/24,Strained oblique,Activated,03/25/24,04/09/24,05/07/24,Activated,Paul Sewald,13892,623149
+Taijuan Walker,PHI,SP,03/23/24,Shoulder impingement,Activated,03/25/24,04/09/24,04/28/24,Activated,Taijuan Walker,11836,592836
+Bryan Woo,SEA,SP,03/23/24,Elbow inflammation,Activated,03/25/24,04/09/24,05/10/24,Activated,Bryan Woo,30279,693433
+Garrett Mitchell,MIL,OF,03/24/24,Fractured finger (left index),Activated,03/25/24,05/24/24,07/01/24,Activated,Garrett Mitchell,27555,669003
+Sean Reid-Foley,NYM,RP,03/24/24,Shoulder impingement,Activated,03/25/24,04/09/24,04/22/24,Activated,Sean Reid-Foley,17034,656887
+Josh Staumont,MIN,RP,03/25/24,Strained calf,Activated,03/26/24,04/10/24,04/19/24,Activated,Josh Staumont,18335,622251
+Dylan Carlson,STL,OF,03/25/24,Sprained shoulder (AC joint),Activated,03/26/24,04/05/24,05/05/24,Activated,Dylan Carlson,20126,666185
+Matt McLain,CIN,2B,03/26/24,Shoulder surgery,Activated,03/25/24,04/04/24,09/30/24,Activated,Matt McLain,29695,680574
+Miguel Andujar,OAK,OF/INF,03/27/24,Knee surgery (lateral meniscectomy),Activated,03/25/24,04/04/24,05/24/24,Activated,Miguel Andujar,15878,609280
+Justin Steele,CHC,SP,03/28/24,Strained hamstring,Activated,03/29/24,04/13/24,05/06/24,Activated,Justin Steele,17312,657006
+Royce Lewis,MIN,3B,03/28/24,Strained quad,Activated,03/29/24,04/08/24,06/04/24,Activated,Royce Lewis,20437,668904
+Luke Jackson,SFG,RP,03/28/24,Strained lower back,Activated,03/29/24,04/13/24,04/22/24,Activated,Luke Jackson,11752,592426
+Riley O'Brien,STL,RP,03/28/24,Strained forearm flexor,Activated,03/29/24,05/28/24,08/11/24,Activated,Riley O'Brien,20348,676617
+Nick Senzel,WSN,3B,03/28/24,Fractured thumb (right),Activated,03/27/24,04/06/24,04/15/24,Activated,Nick Senzel,19293,669222
+Sean Murphy,ATL,C,03/29/24,Strained oblique,Activated,03/30/24,04/09/24,05/27/24,Activated,Sean Murphy,19352,669221
+Anthony DeSclafani,MIN,SP,03/29/24,Elbow/Flexor tendon surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Anthony DeSclafani,13050,543101
+Cionel Pérez,BAL,RP,03/30/24,Strained oblique,Activated,03/31/24,04/15/24,04/29/24,Activated,Cionel Perez,19614,672335
+Jason Heyward,LAD,OF,03/30/24,Lower back tightness,Activated,03/31/24,04/10/24,05/17/24,Activated,Jason Heyward,4940,518792
+Trevor Megill,MIL,RP,03/30/24,Concussion,Activated,03/31/24,04/07/24,04/19/24,Activated,Trevor Megill,17722,656730
+Taylor Clarke,MIL,RP,03/30/24,Knee surgery (torn meniscus),Activated,03/25/24,04/09/24,05/15/24,Activated,Taylor Clarke,17611,664199
+Alek Thomas,ARI,OF,03/31/24,Strained hamstring,Activated,04/01/24,04/11/24,07/02/24,Activated,Alek Thomas,23792,677950
+Eloy Jiménez,CHW,OF,03/31/24,Strained groin,Activated,04/02/24,04/12/24,04/15/24,Activated,Eloy Jimenez,17484,650391
+Tylor Megill,NYM,SP,03/31/24,Strained shoulder,Activated,04/01/24,04/16/24,05/20/24,Activated,Tylor Megill,21318,656731
+Daniel Bard,COL,RP,04/01/24,Flexor tendon surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Daniel Bard,7115,453268
+Jonathan Loáisiga,NYY,RP,04/01/24,Elbow surgery (internal brace),Activated,04/04/24,06/03/24,09/30/24,Activated,Jonathan Loaisiga,19753,642528
+Matt Carpenter,STL,1B,04/01/24,Strained oblique,Activated,04/02/24,04/12/24,05/11/24,Activated,Matt Carpenter,8090,572761
+Josh Jung,TEX,3B,04/01/24,Wrist surgery,Activated,04/02/24,06/01/24,07/29/24,Activated,Josh Jung,26299,673962
+Framber Valdez,HOU,SP,04/02/24,Elbow inflammation,Activated,04/06/24,04/21/24,04/27/24,Activated,Framber Valdez,17295,664285
+Jakob Junis,MIL,SP,04/02/24,Shoulder impingement,Activated,04/03/24,06/02/24,06/21/24,Activated,Jakob Junis,13619,596001
+Geraldo Perdomo,ARI,SS,04/03/24,Torn knee meniscus,Activated,04/04/24,04/14/24,06/11/24,Activated,Geraldo Perdomo,22799,672695
+Nick Pivetta,BOS,SP,04/03/24,Strained elbow flexor,Activated,04/06/24,04/21/24,05/08/24,Activated,Nick Pivetta,15454,601713
+Bennett Sousa,HOU,RP,04/03/24,Thoracic outlet syndrome surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Bennett Sousa,21345,656986
+Trevor Gott,OAK,RP,04/03/24,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Trevor Gott,15046,641627
+Victor Robles,WSN,OF,04/03/24,Strained hamstring,Activated,04/04/24,04/14/24,05/07/24,Activated,Victor Robles,18363,645302
+Trevor Story,BOS,SS,04/05/24,Shoulder surgery (fractured glenoid),Activated,04/06/24,06/05/24,09/07/24,Activated,Trevor Story,12564,596115
+Julian Merryweather,CHC,RP,04/05/24,Rib stress fracture,Activated,04/06/24,06/05/24,07/22/24,Activated,Julian Merryweather,16703,657240
+John Brebbia,CHW,RP,04/05/24,Strained calf,Activated,04/06/24,04/21/24,04/22/24,Activated,John Brebbia,12777,605154
+Luis Robert Jr.,CHW,OF,04/05/24,Strained hip flexor,Activated,04/06/24,04/16/24,06/04/24,Activated,Luis Robert Jr.,20043,673357
+Ryan Borucki,PIT,RP,04/05/24,Triceps inflammation,Activated,04/06/24,06/05/24,09/01/24,Activated,Ryan Borucki,16350,621366
+Max Kepler,MIN,OF,04/06/24,Knee contusion,Activated,04/07/24,04/22/24,04/22/24,Activated,Max Kepler,12144,596146
+Josh Sborz,TEX,RP,04/06/24,Strained shoulder (rotator cuff),Activated,04/07/24,04/22/24,04/25/24,Activated,Josh Sborz,18323,622250
+Andy Ibáñez,DET,INF/OF,04/07/24,Strained hamstring,Activated,04/08/24,04/18/24,04/29/24,Activated,Andy Ibanez,18819,628451
+Guillo Zuñiga,LAA,RP,04/07/24,Strained pectoral,Activated,04/08/24,04/23/24,05/25/24,Activated,Guillo Zuniga,19588,670871
+Chase Silseth,LAA,SP,04/07/24,Elbow inflammation,Activated,04/08/24,06/07/24,06/25/24,Activated,Chase Silseth,30074,681217
+Brent Rooker,OAK,OF,04/07/24,Costochondral cartilage injury,Activated,04/08/24,04/18/24,04/19/24,Activated,Brent Rooker,19627,667670
+Collin Snider,SEA,RP,04/07/24,Knee contusion,Activated,04/08/24,04/23/24,04/23/24,Activated,Collin Snider,23307,676092
+Justin Foscue,TEX,INF,04/07/24,Strained oblique,Activated,04/08/24,06/07/24,06/26/24,Activated,Justin Foscue,27501,679822
+Eury Pérez,MIA,SP,04/08/24,Tommy John surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Eury Perez,27768,691587
+Cody Bolton,SEA,RP,04/08/24,Kidney stones,Activated,04/06/24,04/21/24,04/21/24,Activated,Cody Bolton,23265,675989
+Yoán Moncada,CHW,3B,04/09/24,Strained groin,Activated,04/10/24,06/09/24,09/16/24,Activated,Yoan Moncada,17232,660162
+Connor Brogdon,LAD,RP,04/09/24,Plantar fascitis,Activated,04/10/24,06/09/24,09/30/24,Activated,Connor Brogdon,21205,641401
+Keibert Ruiz,WSN,C,04/09/24,Influenza,Activated,04/12/24,04/22/24,04/25/24,Activated,Keibert Ruiz,19610,660688
+Romy Gonzalez,BOS,INF/OF,04/10/24,Sprained wrist,Activated,04/11/24,04/21/24,05/08/24,Activated,Romy Gonzalez,21562,663853
+Chris Murphy,BOS,SP,04/10/24,Tommy John surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Chris Murphy,26214,669684
+Bobby Miller,LAD,SP,04/10/24,Shoulder inflammation,Activated,04/11/24,04/26/24,06/19/24,Activated,Bobby Miller,27483,676272
+Jon Berti,NYY,INF/OF,04/10/24,Strained groin,Activated,04/11/24,04/21/24,05/04/24,Activated,Jon Berti,12037,542932
+Brandon Lowe,TBR,2B,04/10/24,Strained oblique,Activated,04/09/24,04/19/24,05/20/24,Activated,Brandon Lowe,18882,664040
+Cody Bradford,TEX,SP,04/10/24,Strained lower back/ Rib stress fracture,Activated,04/11/24,06/10/24,07/29/24,Activated,Cody Bradford,27597,674003
+Isaiah Campbell,BOS,RP,04/11/24,Shoulder impingement,Activated,04/12/24,04/27/24,06/06/24,Activated,Isaiah Campbell,25551,663462
+Spencer Strider,ATL,SP,04/12/24,Elbow surgery (internal brace),Activated,04/06/24,06/05/24,09/30/24,Activated,Spencer Strider,27498,675911
+Tejay Antone,CIN,RP,04/12/24,Elbow surgery (UCL/flexor tendon repair),Activated,04/08/24,06/07/24,09/30/24,Activated,Tejay Antone,16233,622088
+Shane Bieber,CLE,SP,04/12/24,Tommy John surgery,Activated,04/03/24,06/02/24,09/30/24,Activated,Shane Bieber,19427,669456
+Christian Yelich,MIL,OF,04/12/24,Strained lower back,Activated,04/13/24,04/23/24,05/08/24,Activated,Christian Yelich,11477,592885
+Carlos Correa,MIN,SS,04/12/24,Strained oblique,Activated,04/13/24,04/23/24,04/29/24,Activated,Carlos Correa,14162,621043
+Angel Martínez,CLE,INF,04/13/24,Fractured hamate,Activated,03/25/24,05/24/24,05/29/24,Activated,Angel Martinez,26540,682657
+Kris Bryant,COL,1B/OF,04/13/24,Strained lower back,Activated,04/14/24,04/24/24,05/21/24,Activated,Kris Bryant,15429,592178
+J.B. Bukauskas,MIL,RP,04/13/24,Strained triceps,Activated,04/14/24,06/13/24,09/30/24,Activated,J.B. Bukauskas,20491,656266
+Marco Gonzales,PIT,SP,04/13/24,Strained forearm,Activated,04/14/24,06/13/24,07/12/24,Activated,Marco Gonzales,15467,594835
+Huascar Ynoa,ATL,SP,04/14/24,Stress reaction in elbow,Activated,06/16/24,08/15/24,09/30/24,Activated,Huascar Ynoa,20468,660623
+Seiya Suzuki,CHC,OF,04/14/24,Strained oblique,Activated,04/15/24,04/25/24,05/10/24,Activated,Seiya Suzuki,30116,673548
+Kyle Freeland,COL,SP,04/14/24,Strained elbow,Activated,04/16/24,06/15/24,06/23/24,Activated,Kyle Freeland,16256,607536
+Christian Bethancourt,MIA,C,04/14/24,Viral illness,Activated,04/14/24,04/24/24,04/24/24,Activated,Christian Bethancourt,10028,542194
+Jake Burger,MIA,3B/1B,04/14/24,Strained oblique,Activated,04/15/24,04/25/24,05/06/24,Activated,Jake Burger,22275,669394
+J.D. Davis,OAK,3B/1B,04/14/24,Strained groin,Activated,04/15/24,04/25/24,05/03/24,Activated,J.D. Davis,16219,605204
+Yu Darvish,SDP,SP,04/14/24,Neck tightness,Activated,04/15/24,04/30/24,04/30/24,Activated,Yu Darvish,13074,506433
+Dominic Canzone,SEA,OF,04/14/24,Sprained shoulder (AC joint),Activated,04/15/24,04/25/24,05/15/24,Activated,Dominic Canzone,26438,686527
+Ozzie Albies,ATL,2B,04/15/24,Fractured toe,Activated,04/16/24,04/26/24,04/26/24,Activated,Ozzie Albies,16556,645277
+Tyler O'Neill,BOS,OF,04/15/24,Concussion,Activated,04/16/24,04/23/24,04/23/24,Activated,Tyler O'Neill,15711,641933
+Chad Green,TOR,RP,04/15/24,Strained shoulder (teres major),Activated,04/17/24,05/02/24,05/28/24,Activated,Chad Green,15552,643338
+Luis Frías,ARI,RP,04/16/24,Shoulder inflammation,Activated,04/17/24,05/02/24,06/06/24,Activated,Luis Frias,21997,666818
+Eli Morgan,CLE,RP,04/16/24,Shoulder inflammation,Activated,04/17/24,05/02/24,05/28/24,Activated,Eli Morgan,20203,669212
+Kyle Hurt,LAD,SP,04/16/24,Shoulder inflammation,Activated,04/17/24,06/16/24,06/21/24,Activated,Kyle Hurt,27514,669165
+Nick Burdi,NYY,RP,04/16/24,Hip inflammation,Activated,04/17/24,05/02/24,05/10/24,Activated,Nick Burdi,16074,595897
+Pete Fairbanks,TBR,RP,04/17/24,Nerve-related issue,Activated,04/19/24,05/04/24,05/11/24,Activated,Pete Fairbanks,17998,664126
+Ryne Nelson,ARI,SP,04/18/24,Elbow contusion,Activated,04/19/24,05/04/24,05/05/24,Activated,Ryne Nelson,26253,669194
+Brock Burke,TEX,RP,04/18/24,Hand surgery (non-throwing),Activated,04/13/24,06/12/24,06/12/24,Activated,Brock Burke,17968,656271
+Brayan Bello,BOS,SP,04/19/24,Lat tightness,Activated,04/21/24,05/06/24,05/12/24,Activated,Brayan Bello,23920,678394
+Gio Urshela,DET,3B,04/19/24,Strained hamstring,Activated,04/20/24,04/30/24,05/14/24,Activated,Gio Urshela,10681,570482
+A.J. Puk,MIA,RP,04/19/24,Shoulder fatigue,Activated,04/20/24,05/05/24,05/13/24,Activated,A.J. Puk,19343,640462
+Jason Delay,PIT,C,04/19/24,Knee surgery,Activated,04/01/24,05/31/24,06/04/24,Activated,Jason Delay,19806,641511
+Blake Snell,SFG,SP,04/19/24,Strained groin,Activated,04/21/24,05/06/24,05/22/24,Activated,Blake Snell,13543,605483
+Miguel Castro,ARI,RP,04/20/24,Shoulder inflammation,Activated,04/21/24,05/06/24,07/11/24,Activated,Miguel Castro,15684,612434
+Austin Hays,BAL,OF,04/20/24,Strained calf,Activated,04/21/24,05/01/24,05/13/24,Activated,Austin Hays,19363,669720
+Triston Casas,BOS,1B,04/20/24,Torn rib cartilage,Activated,04/21/24,06/20/24,08/16/24,Activated,Triston Casas,22514,671213
+Anthony Rendon,LAA,3B,04/20/24,Strained hamstring,Activated,04/21/24,06/20/24,07/08/24,Activated,Anthony Rendon,12861,543685
+Jesús Luzardo,MIA,SP,04/20/24,Elbow tightness,Activated,04/23/24,05/08/24,05/11/24,Activated,Jesus Luzardo,19959,666200
+DL Hall,MIL,SP,04/20/24,Sprained knee,Activated,04/21/24,06/20/24,08/11/24,Activated,DL Hall,22207,669084
+Austin Pruitt,TEX,RP,04/20/24,Knee discomfort,Activated,04/21/24,06/20/24,07/28/24,Activated,Austin Pruitt,15290,643493
+Merrill Kelly,ARI,SP,04/21/24,Strained shoulder,Activated,04/20/24,06/19/24,08/11/24,Activated,Merrill Kelly,11156,518876
+Tyler Heineman,BOS,C,04/21/24,Strained hamstring,Activated,04/22/24,05/02/24,05/18/24,Activated,Tyler Heineman,13897,623168
+Kyle Hendricks,CHC,SP,04/21/24,Strained lower back,Activated,04/22/24,05/07/24,05/12/24,Activated,Kyle Hendricks,12049,543294
+Drew Smyly,CHC,RP,04/21/24,Hip impingement,Activated,04/22/24,05/07/24,05/25/24,Activated,Drew Smyly,11760,592767
+Frankie Montas,CIN,SP,04/21/24,Forearm contusion,Activated,04/22/24,05/07/24,05/07/24,Activated,Frankie Montas,14309,593423
+Cristian Javier,HOU,SP,04/21/24,Neck discomfort,Activated,04/18/24,05/03/24,05/11/24,Activated,Cristian Javier,17606,664299
+Sawyer Gipson-Long,DET,SP,04/22/24,Elbow surgery (internal brace),Activated,03/25/24,05/24/24,09/30/24,Activated,Sawyer Gipson-Long,26048,687830
+Cody Bellinger,CHC,OF,04/23/24,Fractured rib,Activated,04/24/24,05/04/24,05/07/24,Activated,Cody Bellinger,15998,641355
+Jordan Wicks,CHC,SP,04/23/24,Strained forearm,Activated,04/25/24,05/10/24,06/07/24,Activated,Jordan Wicks,30094,696136
+Josh Simpson,MIA,RP,04/23/24,Elbow surgery (ulnar neuritis),Activated,03/25/24,05/24/24,09/03/24,Activated,Josh Simpson,sa1053035,681006
+Drew Smith,NYM,RP,04/23/24,Shoulder inflammation,Activated,04/24/24,05/09/24,06/02/24,Activated,Drew Smith,17755,622098
+Francisco Alvarez,NYM,C,04/23/24,Thumb surgery (torn ligament),Activated,04/20/24,04/30/24,06/11/24,Activated,Francisco Alvarez,26121,682626
+Zack Gelof,OAK,2B,04/23/24,Strained oblique,Activated,04/24/24,05/04/24,05/14/24,Activated,Zack Gelof,29766,680869
+J.P. Crawford,SEA,SS,04/23/24,Strained oblique,Activated,04/24/24,05/04/24,05/20/24,Activated,J.P. Crawford,15491,641487
+Colin Poche,TBR,RP,04/23/24,Back tightness,Activated,04/24/24,05/09/24,06/08/24,Activated,Colin Poche,19403,621363
+Kevin Kiermaier,TOR,OF,04/23/24,Hip flexor inflammation,Activated,04/24/24,05/04/24,05/04/24,Activated,Kevin Kiermaier,11038,595281
+Lane Thomas,WSN,OF,04/23/24,Sprained knee,Activated,04/24/24,05/04/24,05/27/24,Activated,Lane Thomas,16939,657041
+Robert Garcia,WSN,RP,04/23/24,Influenza,Activated,04/21/24,05/06/24,05/07/24,Activated,Robert Garcia,23363,676395
+Alec Marsh,KCR,SP,04/24/24,Elbow contusion,Activated,04/25/24,05/10/24,05/10/24,Activated,Alec Marsh,27451,679525
+Chris Devenski,TBR,RP,04/24/24,Knee tendinitis,Activated,04/26/24,05/11/24,05/25/24,Activated,Chris Devenski,12763,606965
+Bowden Francis,TOR,RP,04/24/24,Forearm tendinitis,Activated,04/25/24,05/10/24,06/04/24,Activated,Bowden Francis,20548,670102
+Miguel Sanó,LAA,1B/3B,04/26/24,Knee discomfort,Activated,04/28/24,05/08/24,06/25/24,Activated,Miguel Sano,12164,593934
+Joey Gallo,WSN,1B/OF,04/26/24,Sprained shoulder (AC joint),Activated,04/27/24,05/07/24,05/17/24,Activated,Joey Gallo,14128,608336
+Grae Kessinger,HOU,INF,04/27/24,Shoulder discomfort,Activated,04/28/24,05/08/24,05/10/24,Activated,Grae Kessinger,25813,666197
+Chas McCormick,HOU,OF,04/27/24,Strained hamstring,Activated,04/28/24,05/08/24,05/21/24,Activated,Chas McCormick,19599,676801
+José Cisnero,LAA,RP,04/27/24,Shoulder inflammation,Activated,04/28/24,06/27/24,08/17/24,Activated,Jose Cisnero,6399,542585
+Ryan Brasier,LAD,RP,04/27/24,Strained calf,Activated,04/28/24,06/27/24,08/17/24,Activated,Ryan Brasier,5615,518489
+Avisaíl García,MIA,OF,04/27/24,Strained hamstring,Activated,04/28/24,05/08/24,06/04/24,Activated,Avisail Garcia,5760,541645
+Masataka Yoshida,BOS,OF,04/28/24,Sprained thumb,Activated,04/29/24,05/09/24,06/11/24,Activated,Masataka Yoshida,31837,807799
+Nolan Jones,COL,OF,04/28/24,Strained lower back,Activated,04/29/24,05/09/24,06/14/24,Activated,Nolan Jones,20529,666134
+Pierce Johnson,ATL,RP,04/29/24,Elbow inflammation,Activated,05/01/24,05/16/24,05/18/24,Activated,Pierce Johnson,13435,572955
+Grayson Rodriguez,BAL,SP,04/29/24,Shoulder inflammation,Activated,04/30/24,05/15/24,05/18/24,Activated,Grayson Rodriguez,24492,680570
+Yariel Rodríguez,TOR,SP,04/29/24,Back inflammation (thoracic spine),Activated,04/30/24,05/15/24,06/21/24,Activated,Yariel Rodriguez,33838,684320
+Robert Stephenson,LAA,RP,04/30/24,Tommy John surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Robert Stephenson,13594,596112
+Yunior Marte,PHI,RP,04/30/24,Shoulder inflammation,Activated,05/01/24,05/16/24,06/25/24,Activated,Yunior Marte,14416,628708
+Luis Patiño,SDP,RP,04/30/24,Tommy John surgery,Activated,03/17/24,05/22/24,09/30/24,Activated,Luis Patino,22815,672715
+Steven Matz,STL,SP,04/30/24,Strained lower back,Activated,05/01/24,06/30/24,09/01/24,Activated,Steven Matz,13361,571927
+Kyle Nelson,ARI,RP,05/01/24,Thoracic outlet syndrome surgery,Activated,04/23/24,06/22/24,09/30/24,Activated,Kyle Nelson,20515,669459
+Danny Mendick,CHW,INF/OF,05/01/24,Lower back tightness,Activated,05/02/24,05/12/24,05/17/24,Activated,Danny Mendick,18889,664901
+Bryan Hoeing,MIA,RP,05/01/24,Strained hamstring,Activated,05/02/24,05/17/24,07/05/24,Activated,Bryan Hoeing,26304,663773
+Brock Stewart,MIN,RP,05/01/24,Shoulder tendinitis,Activated,05/02/24,07/01/24,07/24/24,Activated,Brock Stewart,16727,592779
+Byron Buxton,MIN,OF,05/01/24,Knee inflammation,Activated,05/02/24,05/12/24,05/18/24,Activated,Byron Buxton,14161,621439
+Joe Musgrove,SDP,SP,05/01/24,Elbow inflammation,Activated,05/02/24,05/17/24,05/21/24,Activated,Joe Musgrove,12970,605397
+Drew Rom,STL,SP,05/01/24,Arthroscopic shoulder surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Drew Rom,24602,680723
+Jacob Waguespack,TBR,SP,05/02/24,Strained shoulder,Activated,05/06/24,07/05/24,09/30/24,Activated,Jacob Waguespack,18318,621097
+Nathan Eovaldi,TEX,SP,05/02/24,Strained groin,Activated,05/03/24,05/18/24,05/28/24,Activated,Nathan Eovaldi,9132,543135
+Evan Phillips,LAD,RP,05/03/24,Strained hamstring,Activated,05/04/24,05/19/24,05/31/24,Activated,Evan Phillips,17734,623465
+Joey Wiemer,MIL,OF,05/03/24,Knee discomfort,Activated,05/04/24,05/14/24,05/20/24,Activated,Joey Wiemer,27690,686894
+Shintaro Fujinami,NYM,RP,05/03/24,Strained shoulder,Activated,05/13/24,07/12/24,07/26/24,Activated,Shintaro Fujinami,31839,660261
+Trea Turner,PHI,SS,05/03/24,Strained hamstring,Activated,05/04/24,05/14/24,06/17/24,Activated,Trea Turner,16252,607208
+Patrick Bailey,SFG,C,05/03/24,Concussion,Activated,05/04/24,05/11/24,05/11/24,Activated,Patrick Bailey,27478,672275
+Dominic Leone,CHW,RP,05/04/24,Lower back tightness,Activated,05/05/24,05/20/24,05/20/24,Activated,Dominic Leone,13763,608678
+Steven Kwan,CLE,OF,05/04/24,Strained hamstring,Activated,05/05/24,05/15/24,05/31/24,Activated,Steven Kwan,24610,680757
+Luis Rengifo,LAA,INF,05/04/24,Viral infection,Activated,05/06/24,05/16/24,05/16/24,Activated,Luis Rengifo,19858,650859
+Tyler Matzek,SFG,RP,05/04/24,Elbow inflammation,Activated,05/05/24,07/04/24,08/30/24,Activated,Tyler Matzek,10058,554431
+Tom Murphy,SFG,C,05/04/24,Sprained knee,Activated,05/05/24,07/04/24,09/30/24,Activated,Tom Murphy,13499,608596
+Jorge Soler,SFG,OF,05/04/24,Strained shoulder,Activated,05/05/24,05/15/24,05/17/24,Activated,Jorge Soler,14221,624585
+Dane Dunning,TEX,SP,05/04/24,Strained shoulder (rotator cuff),Activated,05/05/24,05/20/24,05/22/24,Activated,Dane Dunning,19409,641540
+Wyatt Langford,TEX,OF,05/04/24,Strained hamstring,Activated,05/05/24,05/15/24,05/28/24,Activated,Wyatt Langford,33333,694671
+Joe Kelly,LAD,RP,05/05/24,Strained shoulder,Activated,05/06/24,07/05/24,07/19/24,Activated,Joe Kelly,9761,523260
+Joe Boyle,OAK,SP,05/05/24,Strained lower back,Activated,05/06/24,05/21/24,06/05/24,Activated,Joe Boyle,29608,671212
+Giovanny Gallegos,STL,RP,05/05/24,Shoulder impingement,Activated,05/06/24,05/21/24,06/21/24,Activated,Giovanny Gallegos,14986,606149
+Ryan Pepiot,TBR,SP,05/05/24,Leg contusion,Activated,05/06/24,05/21/24,05/22/24,Activated,Ryan Pepiot,26221,686752
+Daniel Palencia,CHC,RP,05/06/24,Shoulder tightness,Activated,05/07/24,05/22/24,06/03/24,Activated,Daniel Palencia,27914,694037
+Dansby Swanson,CHC,SS,05/07/24,Sprained knee,Activated,05/08/24,05/18/24,05/20/24,Activated,Dansby Swanson,18314,621020
+Edward Cabrera,MIA,SP,05/07/24,Shoulder impingement,Activated,05/08/24,07/07/24,07/07/24,Activated,Edward Cabrera,21690,665795
+Wade Miley,MIL,SP,05/07/24,Tommy John surgery,Activated,04/19/24,06/18/24,09/30/24,Activated,Wade Miley,8779,489119
+Darell Hernaiz,OAK,INF,05/07/24,Sprained ankle,Activated,05/08/24,07/07/24,08/02/24,Activated,Darell Hernaiz,26224,687231
+Ke'Bryan Hayes,PIT,3B,05/07/24,Back inflammation,Activated,05/08/24,05/18/24,05/28/24,Activated,Ke'Bryan Hayes,18577,663647
+Tayler Saucedo,SEA,RP,05/07/24,Knee hyperextension,Activated,05/08/24,05/23/24,05/26/24,Activated,Tayler Saucedo,17888,642048
+Ehire Adrianza,LAA,INF,05/08/24,Back spasms,Activated,05/09/24,05/19/24,06/15/24,Activated,Ehire Adrianza,8418,501303
+Brandon Drury,LAA,INF,05/08/24,Strained hamstring,Activated,05/09/24,05/19/24,06/17/24,Activated,Brandon Drury,11615,592273
+Daniel Duarte,MIN,RP,05/08/24,Elbow surgery (UCL revision),Activated,04/04/24,06/03/24,09/30/24,Activated,Daniel Duarte,17480,650960
+Matt Brash,SEA,RP,05/08/24,Tommy John surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Matt Brash,25756,666374
+Willson Contreras,STL,C,05/08/24,Forearm surgery (fracture),Activated,05/08/24,05/18/24,06/24/24,Activated,Willson Contreras,11609,575929
+Josh Sborz,TEX,RP,05/08/24,Strained shoulder (rotator cuff),Activated,05/09/24,05/24/24,07/05/24,Activated,Josh Sborz,18323,622250
+Ian Gibaut,CIN,RP,05/09/24,Forearm surgery (Anterior interosseous nerve relea,Activated,03/25/24,05/24/24,09/24/24,Activated,Ian Gibaut,17871,664139
+Nick Ahmed,SFG,SS,05/09/24,Sprained wrist,Activated,05/10/24,05/20/24,06/14/24,Activated,Nick Ahmed,12147,605113
+Tim Anderson,MIA,SS,05/10/24,Lower back tightness,Activated,05/11/24,05/21/24,05/21/24,Activated,Tim Anderson,15172,641313
+Paul Blackburn,OAK,SP,05/10/24,Stress reaction in foot (fifth metatarsal),Activated,05/11/24,07/10/24,07/26/24,Activated,Paul Blackburn,14739,621112
+Austin Slater,SFG,OF,05/10/24,Concussion,Activated,05/11/24,05/18/24,06/05/24,Activated,Austin Slater,16153,596103
+Nick Lodolo,CIN,SP,05/11/24,Strained groin,Activated,05/12/24,05/27/24,05/27/24,Activated,Nick Lodolo,26378,666157
+Shelby Miller,DET,RP,05/11/24,Ulnar nerve inflammation,Activated,05/12/24,05/27/24,06/04/24,Activated,Shelby Miller,10197,571946
+Kenta Maeda,DET,SP,05/11/24,Viral illness,Activated,05/08/24,05/23/24,05/24/24,Activated,Kenta Maeda,18498,628317
+Michael Conforto,SFG,OF,05/11/24,Strained hamstring,Activated,05/12/24,05/22/24,06/03/24,Activated,Michael Conforto,16376,624424
+Patrick Bailey,SFG,C,05/11/24,Concussion,Activated,05/12/24,05/19/24,05/21/24,Activated,Patrick Bailey,27478,672275
+Colten Brewer,CHC,RP,05/12/24,Strained lower back,Activated,05/14/24,05/29/24,06/11/24,Activated,Colten Brewer,12997,605155
+TJ Friedl,CIN,OF,05/12/24,Fractured thumb (left),Activated,05/13/24,05/23/24,05/29/24,Activated,TJ Friedl,19522,670770
+Rhys Hoskins,MIL,1B,05/13/24,Strained hamstring,Activated,05/14/24,05/24/24,05/31/24,Activated,Rhys Hoskins,16472,656555
+Bryan Ramos,CHW,3B,05/14/24,Strained quad,Activated,05/15/24,05/25/24,05/25/24,Activated,Bryan Ramos,25621,682868
+Keaton Winn,SFG,SP,05/14/24,Strained forearm,Activated,05/15/24,05/30/24,06/09/24,Activated,Keaton Winn,23499,676775
+Keegan Thompson,CHC,RP,05/15/24,Viral illness,Activated,05/12/24,05/27/24,06/07/24,Activated,Keegan Thompson,19795,624522
+Max Muncy,LAD,3B,05/15/24,Strained oblique,Activated,05/16/24,07/15/24,08/19/24,Activated,Max Muncy,13301,571970
+Ken Waldichuk,OAK,SP,05/15/24,Tommy John surgery/ flexor tendon surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Ken Waldichuk,27681,686610
+Justin Wilson,CIN,RP,05/16/24,Shoulder tightness,Activated,05/17/24,06/01/24,06/02/24,Activated,Justin Wilson,4301,458677
+Emmet Sheehan,LAD,SP,05/16/24,Tommy John surgery,Activated,03/17/24,05/22/24,09/30/24,Activated,Emmet Sheehan,29839,686218
+Jake Bird,COL,RP,05/17/24,Elbow inflammation,Activated,05/18/24,06/02/24,06/17/24,Activated,Jake Bird,21267,656234
+Sam Haggerty,SEA,INF/OF,05/18/24,Torn Achilles' tendon,Activated,05/27/24,07/26/24,09/30/24,Activated,Sam Haggerty,18054,664059
+Zach Eflin,TBR,SP,05/18/24,Lower back inflammation,Activated,05/19/24,06/03/24,06/05/24,Activated,Zach Eflin,13774,621107
+Steven Wilson,CHW,RP,05/19/24,Strained back,Activated,05/20/24,06/04/24,06/12/24,Activated,Steven Wilson,20353,621051
+Emilio Pagán,CIN,RP,05/19/24,Triceps tightness,Activated,05/20/24,06/04/24,06/06/24,Activated,Emilio Pagan,14771,641941
+Nick Robertson,STL,RP,05/19/24,Elbow inflammation,Activated,05/23/24,06/07/24,06/24/24,Activated,Nick Robertson,26226,687798
+Dean Kremer,BAL,SP,05/20/24,Strained triceps,Activated,05/21/24,06/05/24,07/03/24,Activated,Dean Kremer,19350,665152
+Dominic Leone,CHW,RP,05/20/24,Elbow inflammation,Activated,05/21/24,07/20/24,08/05/24,Activated,Dominic Leone,13763,608678
+Joe Ross,MIL,SP,05/20/24,Strained lower back,Activated,05/21/24,07/20/24,07/30/24,Activated,Joe Ross,12972,605452
+Ian Hamilton,NYY,RP,05/20/24,COVID-19 symptoms,Activated,05/19/24,05/26/24,05/28/24,Activated,Ian Hamilton,19261,641656
+Xander Bogaerts,SDP,2B,05/20/24,Fractured shoulder,Activated,05/21/24,05/31/24,07/12/24,Activated,Xander Bogaerts,12161,593428
+Eloy Jiménez,CHW,OF,05/21/24,Strained hamstring,Activated,05/22/24,06/01/24,06/23/24,Activated,Eloy Jimenez,17484,650391
+Carlos Carrasco,CLE,SP,05/21/24,Neck spasm,Activated,05/18/24,06/02/24,06/02/24,Activated,Carlos Carrasco,6632,471911
+Jon Gray,TEX,RP,05/21/24,Strained groin,Activated,05/22/24,06/06/24,06/08/24,Activated,Jon Gray,14916,592351
+Josh Lowe,TBR,OF,05/22/24,Strained oblique,Activated,05/23/24,06/02/24,06/03/24,Activated,Josh Lowe,19953,666139
+AJ Smith-Shawver,ATL,SP,05/23/24,Strained oblique,Activated,05/24/24,06/08/24,07/09/24,Activated,AJ Smith-Shawver,29960,700363
+Nick Burdi,NYY,RP,05/23/24,Hip inflammation,Activated,05/24/24,07/23/24,08/01/24,Activated,Nick Burdi,16074,595897
+Michael Massey,KCR,2B,05/24/24,Sprained lower back,Activated,05/25/24,06/04/24,06/24/24,Activated,Michael Massey,27684,686681
+Jon Berti,NYY,INF/OF,05/24/24,Strained calf,Activated,05/25/24,07/24/24,09/09/24,Activated,Jon Berti,12037,542932
+Ross Stripling,OAK,SP,05/24/24,Strained elbow,Activated,05/25/24,06/09/24,07/25/24,Activated,Ross Stripling,13273,548389
+Kyle Muller,OAK,RP,05/24/24,Shoulder tendinitis,Activated,05/27/24,06/11/24,07/07/24,Activated,Kyle Muller,20167,666205
+Tyler O'Neill,BOS,OF,05/25/24,Knee inflammation,Activated,05/26/24,06/05/24,06/05/24,Activated,Tyler O'Neill,15711,641933
+Justin Lawrence,COL,RP,05/25/24,Strained shoulder,Activated,05/26/24,06/10/24,06/17/24,Activated,Justin Lawrence,17639,664875
+Jordan Beck,COL,OF,05/25/24,Fractured hand,Activated,05/26/24,06/05/24,08/03/24,Activated,Jordan Beck,31431,687597
+Edwin Díaz,NYM,RP,05/25/24,Shoulder impingement,Activated,05/26/24,06/10/24,06/13/24,Activated,Edwin Diaz,14710,621242
+Lucas Erceg,OAK,RP,05/25/24,Strained oblique,Activated,05/26/24,06/10/24,06/12/24,Activated,Lucas Erceg,19360,668674
+Kerry Carpenter,DET,OF,05/26/24,Stress fracture (lumbar spine),Activated,05/27/24,07/26/24,08/13/24,Activated,Kerry Carpenter,25961,681481
+Clarke Schmidt,NYY,SP,05/26/24,Strained lat,Activated,05/27/24,07/26/24,09/07/24,Activated,Clarke Schmidt,19899,657376
+Martín Pérez,PIT,SP,05/26/24,Strained groin,Activated,05/27/24,06/11/24,06/28/24,Activated,Martin Perez,6902,527048
+Joey Bart,PIT,C,05/26/24,Thumb discomfort,Activated,05/27/24,06/06/24,06/30/24,Activated,Joey Bart,21524,663698
+Joe Musgrove,SDP,SP,05/26/24,Elbow inflammation,Activated,05/29/24,07/28/24,08/12/24,Activated,Joe Musgrove,12970,605397
+Jorge Polanco,SEA,2B,05/26/24,Strained hamstring,Activated,05/27/24,06/06/24,06/24/24,Activated,Jorge Polanco,13152,593871
+Evan Carter,TEX,OF,05/26/24,Lower back tightness,Activated,05/27/24,07/26/24,09/30/24,Activated,Evan Carter,27790,694497
+LaMonte Wade Jr.,SFG,OF,05/27/24,Strained hamstring,Activated,05/28/24,06/07/24,06/28/24,Activated,LaMonte Wade Jr.,18126,664774
+A.J. Minter,ATL,RP,05/29/24,Hip inflammation,Activated,05/30/24,06/14/24,07/01/24,Activated,A.J. Minter,18655,621345
+Eli Morgan,CLE,RP,05/29/24,Elbow inflammation,Activated,05/30/24,06/14/24,06/29/24,Activated,Eli Morgan,20203,669212
+Brooks Raley,NYM,RP,05/29/24,Tommy John surgery (internal brace),Activated,04/20/24,06/19/24,09/30/24,Activated,Brooks Raley,10061,548384
+Alika Williams,PIT,INF,05/29/24,Sprained wrist,Activated,05/30/24,06/09/24,06/19/24,Activated,Alika Williams,27604,675961
+Yu Darvish,SDP,SP,05/29/24,Strained groin,Activated,05/30/24,06/14/24,09/04/24,Activated,Yu Darvish,13074,506433
+Gabe Speier,SEA,RP,05/29/24,Strained shoulder (rotator cuff),Activated,05/30/24,06/14/24,07/19/24,Activated,Gabe Speier,17170,642100
+Marco Luciano,SFG,SS,05/29/24,Strained hamstring,Activated,05/30/24,06/09/24,06/14/24,Activated,Marco Luciano,25616,682617
+Zac Gallen,ARI,SP,05/30/24,Strained hamstring,Activated,05/31/24,06/15/24,06/29/24,Activated,Zac Gallen,19291,668678
+Romy Gonzalez,BOS,INF/OF,05/30/24,Strained hamstring,Activated,05/31/24,06/10/24,06/17/24,Activated,Romy Gonzalez,21562,663853
+Garrett Whitlock,BOS,SP,05/30/24,Elbow surgery (internal brace),Activated,04/17/24,06/16/24,09/30/24,Activated,Garrett Whitlock,20191,676477
+Lars Nootbaar,STL,OF,05/30/24,Strained oblique,Activated,05/31/24,06/15/24,07/08/24,Activated,Lars Nootbaar,21454,663457
+Trevor Williams,WSN,SP,05/30/24,Strained forearm flexor,Activated,06/01/24,07/31/24,09/20/24,Activated,Trevor Williams,16977,592866
+Michael Wacha,KCR,SP,05/31/24,Fractured foot (non-displaced),Activated,06/01/24,06/16/24,06/22/24,Activated,Michael Wacha,14078,608379
+Sixto Sánchez,MIA,SP,05/31/24,Shoulder inflammation,Activated,06/01/24,07/31/24,09/30/24,Activated,Sixto Sanchez,19680,664350
+Vaughn Grissom,BOS,2B,06/01/24,Strained hamstring,Activated,06/02/24,06/12/24,08/08/24,Activated,Vaughn Grissom,26031,687093
+Andrew Benintendi,CHW,OF,06/01/24,Achilles tendinitis,Activated,06/02/24,06/12/24,06/12/24,Activated,Andrew Benintendi,17901,643217
+Fernando Tatis Jr.,SDP,OF,06/01/24,Femoral stress reaction,Activated,06/22/24,08/21/24,09/02/24,Activated,Fernando Tatis Jr.,19709,665487
+Jorge Mateo,BAL,INF/OF,06/02/24,Concussion,Activated,06/03/24,06/10/24,06/11/24,Activated,Jorge Mateo,17273,622761
+Wilyer Abreu,BOS,OF,06/02/24,Sprained ankle,Activated,06/03/24,06/13/24,06/22/24,Activated,Wilyer Abreu,23772,677800
+Tommy Pham,CHW,OF,06/02/24,Sprained ankle,Activated,06/03/24,06/13/24,06/14/24,Activated,Tommy Pham,2967,502054
+Dominic Fletcher,CHW,OF,06/02/24,Sprained shoulder (AC joint),Activated,06/03/24,06/13/24,07/11/24,Activated,Dominic Fletcher,26149,666150
+Kris Bryant,COL,1B/OF,06/02/24,Rib contusion,Activated,06/03/24,06/13/24,07/23/24,Activated,Kris Bryant,15429,592178
+Kody Clemens,PHI,INF/OF,06/02/24,Lower back spasms,Activated,05/31/24,06/10/24,06/28/24,Activated,Kody Clemens,20572,665019
+Brandon Marsh,PHI,OF,06/02/24,Strained hamstring,Activated,06/03/24,06/13/24,06/15/24,Activated,Brandon Marsh,20202,669016
+Ji Hwan Bae,PIT,INF/OF,06/02/24,Sprained wrist,Activated,06/03/24,06/13/24,06/24/24,Activated,Ji Hwan Bae,23818,678225
+Quinn Priester,PIT,SP,06/02/24,Strained lat,Activated,06/03/24,06/18/24,07/09/24,Activated,Quinn Priester,25977,682990
+Blake Snell,SFG,SP,06/02/24,Strained groin,Activated,06/03/24,06/18/24,07/09/24,Activated,Blake Snell,13543,605483
+John Means,BAL,SP,06/03/24,Tommy John surgery,Activated,05/23/24,07/22/24,09/30/24,Activated,John Means,16269,607644
+Kyle Tucker,HOU,OF,06/03/24,Fractured shin,Activated,06/04/24,08/03/24,09/06/24,Activated,Kyle Tucker,18345,663656
+Blake Walston,ARI,SP,06/04/24,Elbow inflammation,Activated,06/05/24,06/20/24,08/12/24,Activated,Blake Walston,26270,686796
+Alex Faedo,DET,RP,06/04/24,Hip inflammation,Activated,06/05/24,06/20/24,06/27/24,Activated,Alex Faedo,19874,656412
+Jung Hoo Lee,SFG,OF,06/04/24,Shoulder surgery (torn labrum),Activated,05/13/24,07/12/24,09/30/24,Activated,Jung Hoo Lee,33824,808982
+Jimmy Herget,ATL,RP,06/05/24,Shoulder inflammation,Activated,06/06/24,06/21/24,07/27/24,Activated,Jimmy Herget,17556,623474
+Ronald Acuña Jr.,ATL,OF,06/05/24,Knee surgery (torn ACL),Activated,05/27/24,07/26/24,09/30/24,Activated,Ronald Acuna Jr.,18401,660670
+Nick Madrigal,CHC,INF,06/05/24,Fractured pinky (left),Activated,09/01/24,10/31/24,09/30/24,Activated,Nick Madrigal,20521,663611
+Sean Bouchard,COL,OF,06/05/24,Sprained ankle,Activated,06/06/24,06/16/24,06/19/24,Activated,Sean Bouchard,21270,656248
+José Urquidy,HOU,SP,06/05/24,Tommy John surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Jose Urquidy,18413,664353
+Cristian Javier,HOU,SP,06/06/24,Tommy John surgery,Activated,05/24/24,07/23/24,09/30/24,Activated,Cristian Javier,17606,664299
+Max Stassi,CHW,C,06/07/24,Hip surgery (surfacing procedure),Activated,03/25/24,05/24/24,09/30/24,Activated,Max Stassi,10059,545358
+Brendan Rodgers,COL,2B,06/07/24,Strained hamstring,Activated,06/08/24,06/18/24,06/21/24,Activated,Brendan Rodgers,17907,663898
+Ryan Weathers,MIA,SP,06/07/24,Strained finger (left index),Activated,06/08/24,08/07/24,09/18/24,Activated,Ryan Weathers,23796,677960
+Ty France,SEA,1B,06/07/24,Fractured heel,Activated,06/08/24,06/18/24,06/18/24,Activated,Ty France,17982,664034
+Richard Lovelady,TBR,RP,06/07/24,Strained forearm flexor,Activated,06/08/24,06/23/24,08/08/24,Activated,Richard Lovelady,19337,663992
+Ben Brown,CHC,SP,06/08/24,Stress reaction in neck,Activated,06/09/24,08/08/24,09/30/24,Activated,Ben Brown,23590,676962
+Emilio Pagán,CIN,RP,06/08/24,Strained lat,Activated,06/09/24,08/08/24,08/10/24,Activated,Emilio Pagan,14771,641941
+Javier Báez,DET,SS,06/08/24,Back inflammation (lumbar spine),Activated,06/09/24,06/19/24,07/08/24,Activated,Javier Baez,12979,595879
+Elias Díaz,COL,C,06/10/24,Strained calf,Activated,06/11/24,06/21/24,06/30/24,Activated,Elias Diaz,11680,553869
+Hunter Renfroe,KCR,OF,06/10/24,Fractured toe,Activated,06/11/24,06/21/24,06/21/24,Activated,Hunter Renfroe,15464,592669
+Alex Kirilloff,MIN,1B/OF,06/11/24,Back discomfort,Activated,06/12/24,08/11/24,09/30/24,Activated,Alex Kirilloff,20325,666135
+Keynan Middleton,STL,RP,06/11/24,Flexor tendon surgery,Activated,03/25/24,05/24/24,09/30/24,Activated,Keynan Middleton,15264,641871
+Joey Gallo,WSN,1B/OF,06/11/24,Strained hamstring,Activated,06/12/24,06/22/24,08/20/24,Activated,Joey Gallo,14128,608336
+Josh Rogers,COL,C,06/12/24,Strained rotator cuff,Activated,06/14/24,06/29/24,07/14/24,Activated,Josh Rogers,18510,642028
+Oliver Dunn,MIL,INF/OF,06/12/24,Strained back,Activated,06/19/24,08/18/24,09/30/24,Activated,Oliver Dunn,26295,686554
+Cody Poteet,NYY,SP,06/12/24,Strained triceps,Activated,06/15/24,08/14/24,09/20/24,Activated,Cody Poteet,18769,547001
+J.T. Realmuto,PHI,C,06/12/24,"Knee surgery (meniscectomy)			",Activated,06/10/24,06/20/24,07/20/24,Activated,J.T. Realmuto,11739,592663
+Hunter Stratton,PIT,RP,06/13/24,Strained triceps,Activated,06/14/24,06/29/24,07/26/24,Activated,Hunter Stratton,23455,676702
+Michael Harris II,ATL,OF,06/14/24,Strained hamstring,Activated,06/15/24,08/14/24,08/14/24,Activated,Michael Harris II,25931,671739
+Jordan Wicks,CHC,SP,06/14/24,Strained oblique,Activated,06/15/24,08/14/24,09/01/24,Activated,Jordan Wicks,30094,696136
+Adam Cimber,LAA,RP,06/14/24,Shoulder inflammation,Activated,06/15/24,06/30/24,07/22/24,Activated,Adam Cimber,15288,643256
+Henry Davis,PIT,C,06/14/24,Concussion,Activated,06/15/24,06/22/24,07/07/24,Activated,Henry Davis,29617,680779
+Bo Bichette,TOR,SS,06/14/24,Strained calf,Activated,06/15/24,06/25/24,06/25/24,Activated,Bo Bichette,19612,666182
+Justin Verlander,HOU,SP,06/15/24,Neck discomfort,Activated,06/15/24,06/30/24,08/21/24,Activated,Justin Verlander,8700,434378
+Michael Grove,LAD,RP,06/15/24,Strained lat,Activated,06/16/24,07/01/24,08/07/24,Activated,Michael Grove,23221,675627
+Yoshinobu Yamamoto,LAD,SP,06/15/24,Strained rotator cuff,Activated,06/16/24,08/15/24,09/10/24,Activated,Yoshinobu Yamamoto,33825,808967
+Hurston Waldrep,ATL,SP,06/16/24,Elbow inflammation,Activated,06/17/24,07/02/24,07/29/24,Activated,Hurston Waldrep,33527,694462
+Nick Sandlin,CLE,RP,06/16/24,Lower back inflammation,Activated,06/17/24,07/02/24,07/04/24,Activated,Nick Sandlin,20517,680704
+Mookie Betts,LAD,OF,06/16/24,Fractured hand,Activated,06/17/24,06/27/24,08/12/24,Activated,Mookie Betts,13611,605141
+Jesús Luzardo,MIA,SP,06/16/24,Lumbar stress reaction,Activated,06/19/24,08/18/24,09/30/24,Activated,Jesus Luzardo,19959,666200
+Anthony Rizzo,NYY,1B,06/16/24,Fractured forearm,Activated,06/17/24,08/16/24,09/01/24,Activated,Anthony Rizzo,3473,519203
+Ian Hamilton,NYY,RP,06/16/24,Strained lat,Activated,06/17/24,08/16/24,09/07/24,Activated,Ian Hamilton,19261,641656
+Kyle Harrison,SFG,SP,06/16/24,Sprained ankle,Activated,06/13/24,06/28/24,07/06/24,Activated,Kyle Harrison,27758,690986
+Yimi García,TOR,RP,06/16/24,Elbow ulnar neuritis,Activated,06/17/24,07/02/24,07/19/24,Activated,Yimi Garcia,12095,554340
+Tyler Wells,BAL,SP,06/17/24,Elbow surgery (internal brace),Activated,04/13/24,06/12/24,09/30/24,Activated,Tyler Wells,20000,669330
+Mike Tauchman,CHC,OF,06/17/24,Strained groin,Activated,06/18/24,06/28/24,07/19/24,Activated,Mike Tauchman,15274,643565
+José Soriano,LAA,SP,06/17/24,Abdomen infection,Activated,06/17/24,07/02/24,07/02/24,Activated,Jose Soriano,22100,667755
+Braxton Garrett,MIA,SP,06/17/24,Strained forearm flexor,Activated,06/20/24,08/19/24,09/30/24,Activated,Braxton Garrett,21844,666129
+Cole Winn,TEX,RP,06/17/24,Shoulder discomfort,Activated,06/18/24,08/17/24,09/30/24,Activated,Cole Winn,22113,668390
+Alek Manoah,TOR,SP,06/17/24,Elbow surgery (internal brace),Activated,05/30/24,07/29/24,09/30/24,Activated,Alek Manoah,26410,666201
+Charlie Blackmon,COL,OF,06/18/24,Strained hamstring,Activated,06/19/24,06/29/24,06/29/24,Activated,Charlie Blackmon,7859,453568
+Brendan White,DET,RP,06/18/24,Strained elbow,Activated,08/13/24,10/12/24,09/30/24,Activated,Brendan White,26024,686839
+Walker Buehler,LAD,SP,06/18/24,Hip discomfort,Activated,06/19/24,07/04/24,08/14/24,Activated,Walker Buehler,19374,621111
+Iván Herrera,STL,C,06/18/24,Lower back tightness,Activated,06/19/24,06/29/24,07/12/24,Activated,Ivan Herrera,20599,671056
+Danny Coulombe,BAL,RP,06/19/24,Elbow surgery (bone chip removal),Activated,06/09/24,08/08/24,09/20/24,Activated,Danny Coulombe,13293,543056
+Kyle Bradish,BAL,SP,06/19/24,Tommy John surgery,Activated,06/15/24,08/14/24,09/30/24,Activated,Kyle Bradish,24586,680694
+Mark Leiter Jr.,CHC,RP,06/19/24,Strained forearm,Activated,06/20/24,07/05/24,07/09/24,Activated,Mark Leiter Jr.,15551,643410
+Victor Caratini,HOU,C,06/19/24,Strained hip flexor,Activated,06/20/24,06/30/24,07/22/24,Activated,Victor Caratini,14968,605170
+Dan Altavilla,KCR,RP,06/19/24,Strained oblique,Activated,06/20/24,08/19/24,09/05/24,Activated,Dan Altavilla,16507,656186
+Sean Reid-Foley,NYM,RP,06/19/24,Shoulder impingement,Activated,06/20/24,08/19/24,09/30/24,Activated,Sean Reid-Foley,17034,656887
+Dany Jiménez,OAK,RP,06/19/24,Strained oblique,Activated,06/20/24,07/05/24,08/18/24,Activated,Dany Jimenez,21170,666204
+David Bednar,PIT,RP,06/19/24,Strained oblique,Activated,06/20/24,07/05/24,07/12/24,Activated,David Bednar,19569,670280
+Adael Amador,COL,2B,06/20/24,Strained oblique,Activated,06/21/24,07/01/24,07/03/24,Activated,Adael Amador,27962,691182
+Luis Campusano,SDP,C,06/20/24,Thumb contusion,Activated,06/21/24,07/01/24,07/05/24,Activated,Luis Campusano,22217,669134
+Mike Yastrzemski,SFG,OF,06/20/24,Strained oblique,Activated,06/21/24,07/01/24,07/02/24,Activated,Mike Yastrzemski,14854,573262
+Gabriel Moreno,ARI,C,06/21/24,Sprained thumb,Activated,06/22/24,07/02/24,07/02/24,Activated,Gabriel Moreno,22664,672515
+Jake Bloss,HOU,SP,06/21/24,Shoulder discomfort,Activated,06/22/24,07/07/24,07/11/24,Activated,Jake Bloss,33168,814005
+Chris Paddack,MIN,SP,06/21/24,Shoulder fatigue,Activated,06/22/24,07/07/24,07/08/24,Activated,Chris Paddack,20099,663978
+Abraham Toro,OAK,3B,06/21/24,Strained hamstring,Activated,06/22/24,07/02/24,07/21/24,Activated,Abraham Toro,19844,647351
+Taijuan Walker,PHI,SP,06/21/24,Finger inflammation (right index),Activated,06/22/24,07/07/24,08/13/24,Activated,Taijuan Walker,11836,592836
+Jake Bird,COL,RP,06/22/24,Strained groin,Activated,06/23/24,07/08/24,07/10/24,Activated,Jake Bird,21267,656234
+Adam Frazier,KCR,2B/OF,06/22/24,Sprained thumb,Activated,06/23/24,07/03/24,07/05/24,Activated,Adam Frazier,15223,624428
+Starling Marte,NYM,OF,06/22/24,Knee bone bruise,Activated,06/23/24,07/03/24,08/18/24,Activated,Starling Marte,9241,516782
+Giancarlo Stanton,NYY,OF,06/22/24,Strained hamstring,Activated,06/23/24,07/03/24,07/29/24,Activated,Giancarlo Stanton,4949,519317
+Javier Assad,CHC,SP,06/23/24,Strained forearm,Activated,06/24/24,07/09/24,07/13/24,Activated,Javier Assad,21741,665871
+Nick Lodolo,CIN,SP,06/23/24,Finger blister,Activated,06/24/24,07/09/24,07/09/24,Activated,Nick Lodolo,26378,666157
+TJ Friedl,CIN,OF,06/23/24,Strained hamstring,Activated,06/24/24,07/04/24,07/26/24,Activated,TJ Friedl,19522,670770
+Gary Sánchez,MIL,C,06/23/24,Strained calf,Activated,06/24/24,07/04/24,07/24/24,Activated,Gary Sanchez,11442,596142
+Brian Anderson,ATL,INF/OF,06/24/24,Bacterial infection,Activated,06/22/24,07/02/24,07/10/24,Activated,Brian Anderson,18289,605119
+Will Brennan,CLE,OF,06/24/24,Rib cage inflammation,Activated,06/25/24,07/05/24,07/11/24,Activated,Will Brennan,25660,686823
+Robert Gasser,MIL,SP,06/24/24,Tommy John surgery,Activated,06/02/24,08/01/24,09/30/24,Activated,Robert Gasser,29812,688107
+Bryan Woo,SEA,SP,06/24/24,Strained hamstring,Activated,06/25/24,07/10/24,07/12/24,Activated,Bryan Woo,30279,693433
+Ramón Laureano,ATL,OF,06/26/24,Strained oblique,Activated,07/09/24,07/19/24,07/19/24,Activated,Ramon Laureano,17128,657656
+Keegan Thompson,CHC,RP,06/26/24,Fractured rib,Activated,06/27/24,07/12/24,08/07/24,Activated,Keegan Thompson,19795,624522
+Oliver Ortega,HOU,RP,06/26/24,Elbow surgery (loose body removal),Activated,03/25/24,05/24/24,09/30/24,Activated,Oliver Ortega,21025,661383
+Patrick Sandoval,LAA,SP,06/26/24,Elbow surgery (UCL),Activated,06/22/24,08/21/24,09/30/24,Activated,Patrick Sandoval,19447,663776
+Spencer Turnbull,PHI,SP,06/26/24,Strained lat,Activated,06/27/24,08/26/24,09/30/24,Activated,Spencer Turnbull,16207,605513
+Tom Cosgrove,SDP,RP,06/26/24,Elbow inflammation,Activated,06/27/24,07/12/24,07/25/24,Activated,Tom Cosgrove,23443,676680
+Jordan Montgomery,ARI,SP,06/27/24,Knee inflammation,Activated,06/29/24,07/14/24,07/23/24,Activated,Jordan Montgomery,16511,656756
+Bryce Harper,PHI,1B,06/27/24,Strained hamstring,Activated,06/28/24,07/08/24,07/09/24,Activated,Bryce Harper,11579,547180
+Kyle Schwarber,PHI,DH,06/27/24,Strained groin,Activated,06/28/24,07/08/24,07/09/24,Activated,Kyle Schwarber,16478,656941
+Wilmer Flores,SFG,INF,06/27/24,Knee tendinitis,Activated,06/28/24,07/08/24,07/09/24,Activated,Wilmer Flores,5827,527038
+Thairo Estrada,SFG,2B,06/27/24,Sprained wrist,Activated,06/28/24,07/08/24,07/09/24,Activated,Thairo Estrada,16426,642731
+Jared Koenig,MIL,RP,06/28/24,Forearm tendinitis,Activated,06/29/24,07/14/24,07/21/24,Activated,Jared Koenig,27517,657649
+Casey Mize,DET,SP,06/30/24,Strained hamstring,Activated,07/01/24,08/30/24,08/30/24,Activated,Casey Mize,20492,663554
+Otto Lopez,MIA,INF,06/30/24,Lower back inflammation,Activated,07/01/24,07/11/24,07/19/24,Activated,Otto Lopez,19608,672640
+Isiah Kiner-Falefa,PIT,INF,06/30/24,Sprained knee,Activated,07/01/24,07/11/24,08/03/24,Activated,Isiah Kiner-Falefa,16512,643396
+Ray Kerr,ATL,RP,07/01/24,Tommy John surgery,Activated,06/16/24,08/15/24,09/30/24,Activated,Ray Kerr,23809,678061
+Joey Ortiz,MIL,INF,07/01/24,Neck inflammation,Activated,07/02/24,07/12/24,07/12/24,Activated,Joey Ortiz,25493,687401
+J.P. France,HOU,SP,07/02/24,Shoulder surgery (capsule tear),Activated,08/20/24,10/19/24,09/30/24,Activated,J.P. France,21212,641585
+Enoli Paredes,MIL,RP,07/02/24,Forearm tendinitis,Activated,07/03/24,09/01/24,09/12/24,Activated,Enoli Paredes,20447,660600
+Royce Lewis,MIN,3B,07/02/24,Strained groin,Activated,07/03/24,07/13/24,07/26/24,Activated,Royce Lewis,20437,668904
+Chris Martin,BOS,RP,07/03/24,Elbow inflammation,Activated,07/04/24,07/19/24,08/07/24,Activated,Chris Martin,11847,455119
+Luis Rengifo,LAA,INF,07/03/24,Wrist inflammation,Activated,07/04/24,07/14/24,07/23/24,Activated,Luis Rengifo,19858,650859
+Jared Jones,PIT,SP,07/03/24,Strained lat,Activated,07/04/24,07/19/24,08/27/24,Activated,Jared Jones,27863,683003
+Dane Dunning,TEX,SP,07/03/24,Shoulder discomfort,Activated,07/04/24,07/19/24,07/25/24,Activated,Dane Dunning,19409,641540
+Jordan Romano,TOR,RP,07/03/24,Arthroscopic elbow surgery,Activated,05/30/24,07/29/24,09/30/24,Activated,Jordan Romano,16122,605447
+Luke Maile,CIN,C,07/04/24,Herniated disc in back,Activated,07/05/24,07/15/24,08/02/24,Activated,Luke Maile,13355,571912
+Jason Heyward,LAD,OF,07/04/24,Knee contusion,Activated,07/05/24,07/15/24,07/21/24,Activated,Jason Heyward,4940,518792
+Tyler Glasnow,LAD,SP,07/05/24,Lower back tightness,Activated,07/06/24,07/21/24,07/24/24,Activated,Tyler Glasnow,14374,607192
+Austin Martin,MIN,OF/INF,07/05/24,Strained oblique,Activated,07/06/24,07/16/24,07/20/24,Activated,Austin Martin,27462,668885
+Daulton Jefferies,PIT,RP,07/05/24,Elbow inflammation,Activated,07/06/24,09/04/24,09/30/24,Activated,Daulton Jefferies,19345,641726
+Colten Brewer,CHC,RP,07/06/24,Fractured hand (left),Activated,07/07/24,09/05/24,09/30/24,Activated,Colten Brewer,12997,605155
+Stuart Fairchild,CIN,OF,07/06/24,Spine disc injury,Activated,07/07/24,07/17/24,07/19/24,Activated,Stuart Fairchild,20321,656413
+Bailey Falter,PIT,SP,07/06/24,Triceps tendinitis,Activated,07/07/24,07/22/24,07/29/24,Activated,Bailey Falter,20070,663559
+Justin Slaten,BOS,RP,07/07/24,Elbow inflammation,Activated,07/09/24,07/24/24,08/26/24,Activated,Justin Slaten,25648,686580
+Graham Ashcraft,CIN,SP,07/07/24,Strained elbow,Activated,07/08/24,09/06/24,09/30/24,Activated,Graham Ashcraft,27552,668933
+Parker Meadows,DET,OF,07/07/24,Strained hamstring,Activated,07/08/24,07/18/24,08/03/24,Activated,Parker Meadows,23800,678009
+Reed Garrett,NYM,RP,07/09/24,Elbow inflammation,Activated,07/10/24,07/25/24,08/10/24,Activated,Reed Garrett,16866,657585
+Tyler Soderstrom,OAK,1B,07/09/24,Wrist bone bruise (left),Activated,07/10/24,07/20/24,09/14/24,Activated,Tyler Soderstrom,27467,691016
+Wandy Peralta,SDP,SP,07/09/24,Strained groin,Activated,07/10/24,07/25/24,09/01/24,Activated,Wandy Peralta,14295,593974
+Dominic Canzone,SEA,OF,07/09/24,Strained groin,Activated,07/10/24,07/20/24,08/08/24,Activated,Dominic Canzone,26438,686527
+Cody Bellinger,CHC,OF/1B,07/10/24,Fractured finger (left middle),Activated,07/11/24,07/21/24,07/29/24,Activated,Cody Bellinger,15998,641355
+Nick Martini,CIN,OF/1B,07/10/24,Thumb surgery (ligament repair),Activated,07/07/24,09/05/24,09/24/24,Activated,Nick Martini,12005,605361
+Kyle Farmer,MIN,INF,07/10/24,Strained shoulder,Activated,07/11/24,07/21/24,08/09/24,Activated,Kyle Farmer,14813,571657
+Jose Miranda,MIN,3B/1B,07/10/24,Strained lower back,Activated,07/11/24,07/21/24,07/27/24,Activated,Jose Miranda,20538,669304
+Max Fried,ATL,SP,07/11/24,Elbow neuritis,Activated,07/18/24,08/02/24,08/04/24,Activated,Max Fried,13743,608331
+Christian Encarnacion-Strand,CIN,1B,07/11/24,Wrist surgery (ulnar styloid fracture),Activated,05/08/24,07/07/24,09/30/24,Activated,Christian Encarnacion-Strand,30011,687952
+Nolan Jones,COL,OF,07/11/24,Strained lower back,Activated,07/12/24,07/22/24,08/18/24,Activated,Nolan Jones,20529,666134
+J.D. Davis,NYY,1B/3B,07/11/24,Stomach flu,Activated,07/09/24,07/19/24,07/19/24,Activated,J.D. Davis,16219,605204
+Luis F. Ortiz,PHI,RP,07/11/24,Tommy John surgery,Activated,03/31/24,05/30/24,09/30/24,Activated,Luis F. Ortiz,16942,656814
+Heston Kjerstad,BAL,OF,07/12/24,Concussion,Activated,07/13/24,07/20/24,07/20/24,Activated,Heston Kjerstad,31166,677008
+Yency Almonte,CHC,RP,07/12/24,Shoulder surgery (labral repair),Activated,05/08/24,07/07/24,09/30/24,Activated,Yency Almonte,15068,622075
+Luke Little,CHC,RP,07/12/24,Strained shoulder,Activated,07/13/24,09/11/24,09/30/24,Activated,Luke Little,28036,681432
+Carson Spiers,CIN,SP,07/12/24,Shoulder impingement,Activated,07/13/24,07/28/24,07/29/24,Activated,Carson Spiers,27685,686730
+Carlos Correa,MIN,SS,07/12/24,Plantar fascitis,Activated,07/16/24,07/26/24,09/14/24,Activated,Carlos Correa,14162,621043
+Drew Smith,NYM,RP,07/12/24,Tommy John surgery (internal brace),Activated,06/24/24,08/23/24,09/30/24,Activated,Drew Smith,17755,622098
+Jose Trevino,NYY,C,07/12/24,Strained quad,Activated,07/13/24,07/23/24,08/15/24,Activated,Jose Trevino,16725,624431
+Isaiah Campbell,BOS,RP,07/13/24,Elbow inflammation,Activated,09/07/24,11/06/24,09/30/24,Activated,Isaiah Campbell,25551,663462
+Andrew Wantz,LAA,RP,07/13/24,Elbow surgery,Activated,07/01/24,08/30/24,09/30/24,Activated,Andrew Wantz,24933,681806
+Michael Soroka,CHW,RP,07/14/24,Strained shoulder,Activated,07/16/24,07/31/24,09/21/24,Activated,Michael Soroka,18383,647336
+Jordan Leasure,CHW,RP,07/14/24,Shoulder impingement,Activated,07/17/24,08/01/24,09/21/24,Activated,Jordan Leasure,29950,673929
+Germán Márquez,COL,SP,07/14/24,Elbow inflammation,Activated,07/19/24,09/17/24,09/30/24,Activated,German Marquez,15038,608566
+MJ Melendez,KCR,OF,07/14/24,Sprained ankle,Activated,07/15/24,07/25/24,07/28/24,Activated,MJ Melendez,22197,669004
+Dane Myers,MIA,OF,07/14/24,Fractured ankle,Activated,07/15/24,09/13/24,09/24/24,Activated,Dane Myers,22054,667472
+Chris Paddack,MIN,SP,07/14/24,Strained forearm,Activated,07/16/24,09/14/24,09/30/24,Activated,Chris Paddack,20099,663978
+Hayden Wesneski,CHC,SP,07/19/24,Strained forearm,Activated,07/20/24,08/04/24,09/20/24,Activated,Hayden Wesneski,27581,669713
+Brent Suter,CIN,RP,07/19/24,Strained shoulder,Activated,07/20/24,08/04/24,09/01/24,Activated,Brent Suter,13942,608718
+Jacob Wilson,OAK,SS,07/19/24,Strained hamstring,Activated,07/20/24,07/30/24,08/27/24,Activated,Jacob Wilson,33266,805779
+Bo Bichette,TOR,SS,07/19/24,Strained calf,Activated,07/20/24,07/30/24,09/17/24,Activated,Bo Bichette,19612,666182
+Reese Olson,DET,SP,07/20/24,Strained shoulder,Activated,07/21/24,08/05/24,09/16/24,Activated,Reese Olson,24968,681857
+Kody Funderburk,MIN,RP,07/20/24,Strained oblique,Activated,07/18/24,09/16/24,09/27/24,Activated,Kody Funderburk,24993,681892
+Ryan Pepiot,TBR,SP,07/20/24,Knee infection,Activated,07/19/24,08/03/24,08/16/24,Activated,Ryan Pepiot,26221,686752
+Ozzie Albies,ATL,2B,07/21/24,Fractured wrist,Activated,07/22/24,08/01/24,09/20/24,Activated,Ozzie Albies,16556,645277
+Miguel Rojas,LAD,INF,07/21/24,Forearm tightness,Activated,07/22/24,08/01/24,08/07/24,Activated,Miguel Rojas,7802,500743
+Julio Rodríguez,SEA,OF,07/21/24,Sprained ankle,Activated,07/22/24,08/01/24,08/11/24,Activated,Julio Rodriguez,23697,677594
+Mason Miller,OAK,RP,07/22/24,Fractured hand (left),Activated,07/23/24,08/07/24,08/07/24,Activated,Mason Miller,31757,695243
+Ranger Suárez,PHI,SP,07/22/24,Lower back soreness,Activated,07/24/24,08/08/24,08/24/24,Activated,Ranger Suarez,17277,624133
+J.P. Crawford,SEA,SS,07/22/24,Fractured hand (right pinkie),Activated,07/23/24,08/02/24,08/28/24,Activated,J.P. Crawford,15491,641487
+Trevor Megill,MIL,RP,07/23/24,Strained lower back,Activated,07/26/24,08/10/24,08/20/24,Activated,Trevor Megill,17722,656730
+Bryan Hudson,MIL,RP,07/23/24,Strained oblique,Activated,07/24/24,08/08/24,08/12/24,Activated,Bryan Hudson,19924,663542
+Dedniel Núñez,NYM,RP,07/23/24,Strained forearm,Activated,07/24/24,08/08/24,08/23/24,Activated,Dedniel Nunez,23055,673380
+Chris Taylor,LAD,INF/OF,07/24/24,Strained groin,Activated,07/25/24,08/04/24,08/22/24,Activated,Chris Taylor,13757,621035
+Rob Zastryzny,MIL,RP,07/24/24,Elbow tendinitis,Activated,07/25/24,09/23/24,09/30/24,Activated,Rob Zastryzny,15094,642239
+Jordan Weems,WSN,RP,07/24/24,Shin splints,Activated,07/25/24,08/09/24,09/30/24,Activated,Jordan Weems,13190,607179
+Josiah Gray,WSN,SP,07/24/24,Tommy John surgery (internal brace),Activated,04/06/24,06/05/24,09/30/24,Activated,Josiah Gray,24580,680686
+Riley Greene,DET,OF,07/25/24,Strained hamstring,Activated,07/26/24,08/05/24,08/18/24,Activated,Riley Greene,25976,682985
+Thairo Estrada,SFG,2B,07/25/24,Sprained wrist,Activated,07/26/24,08/05/24,08/19/24,Activated,Thairo Estrada,16426,642731
+Anthony Rendon,LAA,3B,07/26/24,Lower back inflammation,Activated,07/27/24,08/06/24,08/06/24,Activated,Anthony Rendon,12861,543685
+Kodai Senga,NYM,SP,07/26/24,Strained calf,Activated,07/27/24,09/25/24,09/30/24,Activated,Kodai Senga,31838,673540
+Alex Wood,OAK,SP,07/26/24,Arthroscopic shoulder surgery,Activated,05/13/24,07/12/24,09/30/24,Activated,Alex Wood,13781,622072
+Nick Gonzales,PIT,2B,07/27/24,Strained groin,Activated,07/28/24,08/07/24,08/26/24,Activated,Nick Gonzales,27490,693304
+Reynaldo López,ATL,SP,07/28/24,Forearm inflammation,Activated,08/02/24,08/17/24,08/19/24,Activated,Reynaldo Lopez,16400,625643
+Austin Wynns,CIN,C,07/28/24,Strained lat,Activated,07/29/24,09/27/24,09/30/24,Activated,Austin Wynns,15271,642851
+John Schreiber,KCR,RP,07/28/24,Knee discomfort,Activated,07/29/24,08/13/24,08/19/24,Activated,John Schreiber,20020,670167
+Jon Gray,TEX,SP,07/28/24,Strained groin,Activated,07/29/24,08/13/24,08/20/24,Activated,Jon Gray,14916,592351
+Christian Walker,ARI,1B,07/29/24,Strained oblique,Activated,07/30/24,08/09/24,09/03/24,Activated,Christian Walker,13419,572233
+Heston Kjerstad,BAL,OF,07/29/24,Concussion,Activated,07/31/24,08/10/24,09/15/24,Activated,Heston Kjerstad,31166,677008
+Joshua Palacios,PIT,OF,07/29/24,Strained hamstring,Activated,07/30/24,08/09/24,08/19/24,Activated,Joshua Palacios,19818,641943
+Carmen Mlodzinski,PIT,RP,07/29/24,Strained shoulder,Activated,07/30/24,08/14/24,08/27/24,Activated,Carmen Mlodzinski,27572,669387
+Keaton Winn,SFG,SP,07/29/24,Elbow surgery (ulnar nerve transpositon),Activated,06/21/24,08/20/24,09/30/24,Activated,Keaton Winn,23499,676775
+Bryce Jarvis,ARI,RP,07/30/24,Sprained elbow,Activated,07/31/24,09/29/24,09/30/24,Activated,Bryce Jarvis,27477,686826
+Stephen Kolek,SDP,RP,07/30/24,Forearm tendonitis,Activated,07/31/24,09/29/24,09/30/24,Activated,Stephen Kolek,21487,663568
+Lance Lynn,STL,SP,07/30/24,Knee inflammation,Activated,07/31/24,08/15/24,09/11/24,Activated,Lance Lynn,2520,458681
+Max Scherzer,TEX,SP,07/30/24,Shoulder fatigue,Activated,07/31/24,08/15/24,09/14/24,Activated,Max Scherzer,3137,453286
+Jordan Westburg,BAL,INF,07/31/24,Fractured hand (right),Activated,08/01/24,08/11/24,09/22/24,Activated,Jordan Westburg,27815,676059
+Tomás Nido,CHC,C,07/31/24,Knee surgery (meniscus),Activated,07/25/24,08/04/24,08/30/24,Activated,Tomas Nido,13755,621512
+Gregory Santos,SEA,RP,07/31/24,Biceps inflammation,Activated,08/01/24,08/16/24,09/23/24,Activated,Gregory Santos,21894,666619
+Richie Palacios,TBR,OF/INF,07/31/24,Sprained knee,Activated,08/01/24,08/11/24,09/23/24,Activated,Richie Palacios,24589,680700
+Adbert Alzolay,CHC,RP,08/01/24,Tommy John surgery,Activated,05/13/24,07/12/24,09/30/24,Activated,Adbert Alzolay,17859,640470
+Mike Clevinger,CHW,SP,08/01/24,Neck surgery (disc replacement),Activated,05/25/24,07/24/24,09/30/24,Activated,Mike Clevinger,12808,605182
+River Ryan,LAD,SP,08/01/24,Tommy John surgery,Activated,08/11/24,10/10/24,09/30/24,Activated,River Ryan,29514,689981
+Brock Stewart,MIN,RP,08/01/24,Arthroscopic shoulder surgery,Activated,07/30/24,09/28/24,09/30/24,Activated,Brock Stewart,16727,592779
+Jacob Webb,BAL,RP,08/02/24,Elbow inflammation,Activated,08/04/24,08/19/24,09/15/24,Activated,Jacob Webb,19274,657097
+Tyler O'Neill,BOS,OF,08/02/24,Calf infection,Activated,08/04/24,08/14/24,08/17/24,Activated,Tyler O'Neill,15711,641933
+Jacob Latz,TEX,RP,08/02/24,Forearm tightness,Activated,08/03/24,08/18/24,09/18/24,Activated,Jacob Latz,21306,656641
+Michael Siani,STL,OF,08/03/24,Strained oblique,Activated,08/04/24,08/14/24,09/01/24,Activated,Michael Siani,22557,672279
+Hunter Harvey,KCR,RP,08/04/24,Back tightness,Activated,08/07/24,08/22/24,09/30/24,Activated,Hunter Harvey,15507,640451
+Blake Treinen,LAD,RP,08/04/24,Hip discomfort,Activated,08/05/24,08/20/24,08/21/24,Activated,Blake Treinen,12572,595014
+Gabriel Moreno,ARI,C,08/05/24,Strained groin,Activated,08/06/24,08/16/24,09/15/24,Activated,Gabriel Moreno,22664,672515
+Nick Fortes,MIA,C,08/05/24,Strained quad,Activated,08/06/24,08/16/24,08/16/24,Activated,Nick Fortes,21538,663743
+Luis Rengifo,LAA,INF,08/06/24,Wrist surgery,Activated,08/03/24,10/02/24,09/30/24,Activated,Luis Rengifo,19858,650859
+Brusdar Graterol,LAD,RP,08/06/24,Strained hamstring,Activated,08/07/24,08/22/24,09/10/24,Activated,Brusdar Graterol,20367,660813
+Wilmer Flores,SFG,INF,08/06/24,Tenex procedure (right knee),Activated,07/24/24,09/22/24,09/30/24,Activated,Wilmer Flores,5827,527038
+Grayson Rodriguez,BAL,SP,08/07/24,Lat discomfort,Activated,08/04/24,08/19/24,09/30/24,Activated,Grayson Rodriguez,24492,680570
+Carlos Carrasco,CLE,SP,08/07/24,Strained hip,Activated,08/08/24,08/23/24,09/17/24,Activated,Carlos Carrasco,6632,471911
+Ryan Feltner,COL,SP,08/07/24,Strained shoulder,Activated,08/08/24,08/23/24,08/26/24,Activated,Ryan Feltner,21446,663372
+Mike Trout,LAA,OF,08/07/24,Knee surgery (torn meniscus),Activated,04/30/24,06/29/24,09/30/24,Activated,Mike Trout,10155,545361
+Joe Ryan,MIN,SP,08/07/24,Strained shoulder (teres major),Activated,08/08/24,10/07/24,09/30/24,Activated,Joe Ryan,21390,657746
+Brooks Lee,MIN,INF,08/07/24,Biceps tendinitis,Activated,08/08/24,08/18/24,09/01/24,Activated,Brooks Lee,31595,686797
+Luis Medina,OAK,SP,08/07/24,Sprained elbow,Activated,07/12/24,09/10/24,09/30/24,Activated,Luis Medina,21649,665622
+Austin Hays,PHI,OF,08/07/24,Strained hamstring,Activated,08/08/24,08/18/24,08/23/24,Activated,Austin Hays,19363,669720
+Colin Holderman,PIT,RP,08/07/24,Sprained wrist,Activated,08/08/24,08/23/24,09/01/24,Activated,Colin Holderman,22361,670059
+Matt Carpenter,STL,1B,08/07/24,Strained lower back,Activated,08/09/24,08/19/24,08/20/24,Activated,Matt Carpenter,8090,572761
+Josh Sborz,TEX,RP,08/07/24,Shoulder fatigue,Activated,08/08/24,08/23/24,09/24/24,Activated,Josh Sborz,18323,622250
+Hoby Milner,MIL,RP,08/08/24,Shoulder impingement,Activated,08/09/24,08/24/24,09/03/24,Activated,Hoby Milner,13346,571948
+Cooper Criswell,BOS,RP,08/09/24,COVID-19,Activated,08/08/24,08/15/24,08/16/24,Activated,Cooper Criswell,24975,681867
+Wenceel Pérez,DET,OF,08/09/24,Strained oblique,Activated,08/10/24,08/20/24,09/12/24,Activated,Wenceel Perez,22857,672761
+Christian Roa,CIN,SP,08/10/24,Sprained shoulder,Activated,08/19/24,10/18/24,09/30/24,Activated,Christian Roa,sa3014477,685005
+Kris Bryant,COL,1B/OF,08/10/24,Strained back,Activated,08/11/24,08/21/24,09/30/24,Activated,Kris Bryant,15429,592178
+Dakota Hudson,COL,SP,08/10/24,Elbow inflammation,Activated,08/11/24,10/10/24,09/30/24,Activated,Dakota Hudson,19206,641712
+Anthony Bender,MIA,RP,08/10/24,Shoulder impingement,Activated,08/12/24,08/27/24,09/07/24,Activated,Anthony Bender,19742,669622
+Jhony Brito,SDP,SP,08/10/24,Strained elbow,Activated,09/22/24,11/21/24,09/30/24,Activated,Jhony Brito,25386,666745
+James Paxton,BOS,SP,08/11/24,Strained calf,Activated,08/12/24,10/11/24,09/30/24,Activated,James Paxton,11828,572020
+Tyler Glasnow,LAD,SP,08/11/24,Sprained elbow,Activated,08/13/24,10/12/24,09/30/24,Activated,Tyler Glasnow,14374,607192
+Blake Perkins,MIL,OF,08/11/24,Strained calf,Activated,08/12/24,08/22/24,08/22/24,Activated,Blake Perkins,19921,663368
+Byron Buxton,MIN,OF,08/12/24,Hip inflammation,Activated,08/13/24,08/23/24,09/12/24,Activated,Byron Buxton,14161,621439
+Jazz Chisholm Jr.,NYY,3B,08/12/24,Sprained elbow (non-throwing),Activated,08/13/24,08/23/24,08/23/24,Activated,Jazz Chisholm Jr.,20454,665862
+Cam Booser,BOS,RP,08/13/24,Elbow inflammation,Activated,08/14/24,08/29/24,09/11/24,Activated,Cam Booser,16061,592155
+Hunter Greene,CIN,SP,08/13/24,Elbow soreness,Activated,08/14/24,08/29/24,09/22/24,Activated,Hunter Greene,22182,668881
+Ryan Pressly,HOU,RP,08/13/24,Strained lower back,Activated,08/14/24,08/29/24,08/29/24,Activated,Ryan Pressly,7005,519151
+Austin Adams,OAK,RP,08/13/24,Forearm tendinitis,Activated,08/14/24,08/29/24,09/30/24,Activated,Austin Adams,13801,613534
+Randy Rodríguez,SFG,RP,08/13/24,Elbow inflammation,Activated,08/14/24,08/29/24,09/27/24,Activated,Randy Rodriguez,23974,678495
+Dominic Leone,CHW,RP,08/14/24,Sprained elbow,Activated,08/15/24,10/14/24,09/30/24,Activated,Dominic Leone,13763,608678
+Steven Wilson,CHW,RP,08/14/24,Strained lower back,Activated,08/15/24,08/30/24,09/30/24,Activated,Steven Wilson,20353,621051
+Alex Cobb,CLE,SP,08/14/24,Fractured nail (right hand),Activated,08/16/24,08/31/24,09/01/24,Activated,Alex Cobb,6562,502171
+Zack Littell,TBR,SP,08/14/24,Shoulder fatigue,Activated,08/15/24,08/30/24,09/01/24,Activated,Zack Littell,15823,641793
+Zach Eflin,BAL,SP,08/15/24,Shoulder inflammation,Activated,08/17/24,09/01/24,09/01/24,Activated,Zach Eflin,13774,621107
+José Soriano,LAA,SP,08/16/24,Arm fatigue,Activated,08/17/24,10/16/24,09/30/24,Activated,Jose Soriano,22100,667755
+Christian Yelich,MIL,OF,08/16/24,Back surgery,Activated,07/24/24,09/22/24,09/30/24,Activated,Christian Yelich,11477,592885
+Andrew McCutchen,PIT,DH,08/16/24,Knee inflammation,Activated,08/17/24,08/27/24,08/30/24,Activated,Andrew McCutchen,9847,457705
+Derek Law,WSN,RP,08/16/24,Strained flexor,Activated,08/17/24,09/01/24,09/02/24,Activated,Derek Law,13133,571882
+Scott Alexander,OAK,RP,08/17/24,Rotator cuff tendinitis,Activated,08/18/24,09/02/24,09/04/24,Activated,Scott Alexander,10591,518397
+Ke'Bryan Hayes,PIT,3B,08/17/24,Lower back inflammation,Activated,08/18/24,08/28/24,09/30/24,Activated,Ke'Bryan Hayes,18577,663647
+Ketel Marte,ARI,2B,08/18/24,Sprained ankle,Activated,08/19/24,08/29/24,09/06/24,Activated,Ketel Marte,13613,606466
+Austin Riley,ATL,3B,08/18/24,Fractured hand,Activated,08/19/24,08/29/24,09/30/24,Activated,Austin Riley,18360,663586
+Andrew Abbott,CIN,SP,08/18/24,Strained shoulder,Activated,08/20/24,09/04/24,09/30/24,Activated,Andrew Abbott,29911,671096
+Austin Barnes,LAD,C,08/18/24,Fractured toe,Activated,08/19/24,08/29/24,08/29/24,Activated,Austin Barnes,12158,605131
+Patrick Bailey,SFG,C,08/18/24,Strained oblique,Activated,08/19/24,08/29/24,08/29/24,Activated,Patrick Bailey,27478,672275
+Pete Fairbanks,TBR,RP,08/18/24,Strained lat,Activated,08/19/24,09/03/24,09/30/24,Activated,Pete Fairbanks,17998,664126
+Tyler Mahle,TEX,SP,08/18/24,Shoulder tightness,Activated,08/19/24,10/18/24,09/30/24,Activated,Tyler Mahle,16358,641816
+Jeimer Candelario,CIN,1B/3B,08/19/24,Fractured toe,Activated,08/20/24,08/30/24,09/30/24,Activated,Jeimer Candelario,13621,600869
+Yimi García,SEA,RP,08/19/24,Elbow inflammation,Activated,08/20/24,10/19/24,09/30/24,Activated,Yimi Garcia,12095,554340
+Jimmy Lambert,CHW,RP,08/20/24,Shoulder surgery,Activated,03/28/24,05/27/24,09/30/24,Activated,Jimmy Lambert,19541,669424
+Jake Fraley,CIN,OF,08/20/24,Sprained knee,Activated,08/21/24,08/31/24,09/01/24,Activated,Jake Fraley,19260,641584
+Victor Vodnik,COL,RP,08/20/24,Biceps inflammation,Activated,08/19/24,09/03/24,09/08/24,Activated,Victor Vodnik,24614,680767
+Alex Faedo,DET,RP,08/20/24,Strained shoulder,Activated,08/22/24,10/21/24,09/30/24,Activated,Alex Faedo,19874,656412
+Luis Gil,NYY,SP,08/20/24,Strained lower back,Activated,08/21/24,09/05/24,09/05/24,Activated,Luis Gil,21052,661563
+Rodolfo Castro,PHI,INF,08/20/24,Torn thumb ligament,Activated,09/07/24,11/06/24,09/30/24,Activated,Rodolfo Castro,21987,666801
+A.J. Minter,ATL,RP,08/21/24,Hip surgery,Activated,08/12/24,10/11/24,09/30/24,Activated,A.J. Minter,18655,621345
+Andrew Nardi,MIA,RP,08/21/24,Elbow discomfort,Activated,08/22/24,10/21/24,09/30/24,Activated,Andrew Nardi,25942,677053
+Ryan Mountcastle,BAL,1B,08/22/24,Sprained wrist,Activated,08/23/24,09/02/24,09/24/24,Activated,Ryan Mountcastle,18373,663624
+Nick Lodolo,CIN,SP,08/22/24,Sprained finger (left middle),Activated,08/24/24,09/08/24,09/30/24,Activated,Nick Lodolo,26378,666157
+Nick Mears,MIL,RP,08/22/24,Forearm inflammation,Activated,08/23/24,09/07/24,09/26/24,Activated,Nick Mears,25376,683232
+Joan Adon,WSN,RP,08/22/24,Strained shoulder,Activated,08/25/24,10/24/24,09/30/24,Activated,Joan Adon,22925,672851
+Xavier Edwards,MIA,SS,08/23/24,Back discomfort,Activated,08/24/24,09/03/24,09/03/24,Activated,Xavier Edwards,22266,669364
+Paul Blackburn,NYM,SP,08/23/24,Hand contusion,Activated,08/24/24,10/23/24,09/30/24,Activated,Paul Blackburn,14739,621112
+Alex Call,WSN,OF,08/23/24,Foot discomfort (partially torn plantar fascia),Activated,08/24/24,09/03/24,09/30/24,Activated,Alex Call,19296,669743
+Stuart Fairchild,CIN,OF,08/24/24,Sprained thumb,Activated,08/25/24,10/24/24,09/30/24,Activated,Stuart Fairchild,20321,656413
+Hunter Renfroe,KCR,OF,08/24/24,Strained hamstring,Activated,08/25/24,09/04/24,09/05/24,Activated,Hunter Renfroe,15464,592669
+Carson Fulmer,LAA,SP,08/24/24,Elbow inflammation,Activated,08/27/24,09/11/24,09/30/24,Activated,Carson Fulmer,18311,608334
+Dedniel Núñez,NYM,RP,08/24/24,Forearm tightness,Activated,08/26/24,09/10/24,09/30/24,Activated,Dedniel Nunez,23055,673380
+Jordan Hicks,SFG,RP,08/24/24,Shoulder inflammation,Activated,08/25/24,09/09/24,09/14/24,Activated,Jordan Hicks,19618,663855
+Willson Contreras,STL,C,08/24/24,Fractured finger (right middle),Activated,08/25/24,09/04/24,09/30/24,Activated,Willson Contreras,11609,575929
+Lucas Sims,BOS,RP,08/25/24,Strained lat,Activated,08/26/24,09/10/24,09/19/24,Activated,Lucas Sims,13470,608371
+Julian Merryweather,CHC,RP,08/25/24,Knee tendinitis,Activated,08/26/24,10/25/24,09/30/24,Activated,Julian Merryweather,16703,657240
+Lucas Gilbreath,COL,RP,08/25/24,Shoulder inflammation,Activated,08/26/24,09/10/24,09/30/24,Activated,Lucas Gilbreath,21290,656458
+Will Smith,KCR,RP,08/25/24,Lower back spasms,Activated,08/26/24,09/10/24,09/30/24,Activated,Will Smith,8048,519293
+Matt Moore,LAA,RP,08/25/24,Strained forearm,Activated,08/26/24,10/25/24,09/30/24,Activated,Matt Moore,1890,519043
+Joey Bart,PIT,C,08/25/24,Strained hamstring,Activated,08/26/24,09/05/24,09/06/24,Activated,Joey Bart,21524,663698
+Robbie Ray,SFG,SP,08/25/24,Strained hamstring,Activated,08/26/24,09/10/24,09/30/24,Activated,Robbie Ray,11486,592662
+Luis García,BOS,RP,08/26/24,Elbow inflammation,Activated,08/27/24,09/11/24,09/21/24,Activated,Luis Garcia,6984,472610
+Hunter Stratton,PIT,RP,08/26/24,Knee surgery (ruptured patella tendon),Activated,08/25/24,10/24/24,09/30/24,Activated,Hunter Stratton,23455,676702
+Justin Steele,CHC,SP,08/27/24,Elbow tendinitis,Activated,09/01/24,09/16/24,09/18/24,Activated,Justin Steele,17312,657006
+Cal Quantrill,COL,SP,08/27/24,Triceps inflammation,Activated,08/29/24,09/13/24,09/15/24,Activated,Cal Quantrill,19312,615698
+Michael Lorenzen,KCR,SP,08/27/24,Strained hamstring,Activated,08/28/24,09/12/24,09/25/24,Activated,Michael Lorenzen,14843,547179
+Ben Heller,PIT,RP,08/27/24,Shoulder inflammation,Activated,08/28/24,10/27/24,09/30/24,Activated,Ben Heller,15100,621294
+Colin Poche,TBR,RP,08/27/24,Shoulder inflammation,Activated,08/28/24,09/12/24,09/16/24,Activated,Colin Poche,19403,621363
+Jorge Mateo,BAL,INF/OF,08/28/24,Elbow surgery (internal brace),Activated,07/24/24,09/22/24,09/30/24,Activated,Jorge Mateo,17273,622761
+David Hamilton,BOS,INF,08/28/24,Fractured finger (left index),Activated,08/29/24,09/08/24,09/30/24,Activated,David Hamilton,27531,666152
+Vinnie Pasquantino,KCR,1B,08/29/24,Fractured thumb (right),Activated,08/30/24,09/09/24,09/30/24,Activated,Vinnie Pasquantino,27676,686469
+Alec Bohm,PHI,3B,08/29/24,Strained hand,Activated,09/03/24,09/13/24,09/15/24,Activated,Alec Bohm,21618,664761
+Clayton Kershaw,LAD,SP,08/30/24,Toe inflammation,Activated,08/31/24,09/15/24,09/30/24,Activated,Clayton Kershaw,2036,477132
+Joe Kelly,LAD,RP,08/30/24,Shoulder inflammation,Activated,08/31/24,09/15/24,09/18/24,Activated,Joe Kelly,9761,523260
+Vidal Bruján,MIA,INF/OF,08/30/24,Sprained shoulder,Activated,08/31/24,09/10/24,09/19/24,Activated,Vidal Brujan,20536,660644
+Jon Gray,TEX,SP,08/30/24,Foot discomfort,Activated,08/31/24,10/30/24,09/30/24,Activated,Jon Gray,14916,592351
+Ramón Urías,BAL,INF,08/31/24,Sprained ankle,Activated,09/01/24,09/11/24,09/22/24,Activated,Ramon Urias,18795,602104
+Manuel Margot,MIN,OF,08/31/24,Strained groin,Activated,09/01/24,09/11/24,09/11/24,Activated,Manuel Margot,14712,622534
+Lourdes Gurriel Jr.,ARI,OF,09/01/24,Strained calf,Activated,09/02/24,09/12/24,09/20/24,Activated,Lourdes Gurriel Jr.,19238,666971
+Brandon Williamson,CIN,SP,09/01/24,Tommy John surgery,Activated,09/18/24,11/17/24,09/30/24,Activated,Brandon Williamson,25463,682227
+Alex Cobb,CLE,SP,09/01/24,Blister (middle finger),Activated,09/08/24,09/23/24,09/30/24,Activated,Alex Cobb,6562,502171
+Bryse Wilson,MIL,RP,09/01/24,Strained oblique,Activated,09/02/24,09/17/24,09/30/24,Activated,Bryse Wilson,19990,669060
+Max Kepler,MIN,OF,09/01/24,Knee tendinitis,Activated,09/02/24,11/01/24,09/30/24,Activated,Max Kepler,12144,596146
+Christian Scott,NYM,SP,09/01/24,Tommy John surgery (internal brace),Activated,07/22/24,09/20/24,09/30/24,Activated,Christian Scott,30107,681035
+Austin Hays,PHI,OF,09/01/24,Kidney infection,Activated,09/02/24,09/12/24,09/24/24,Activated,Austin Hays,19363,669720
+Jorge López,CHC,RP,09/02/24,Strained groin,Activated,09/03/24,09/18/24,09/18/24,Activated,Jorge Lopez,14527,605347
+Brooks Baldwin,CHW,INF,09/03/24,Sprained wrist,Activated,09/04/24,09/14/24,09/30/24,Activated,Brooks Baldwin,31394,681460
+Javier Báez,DET,SS,09/03/24,Arthroscopic hip surgery,Activated,08/23/24,09/02/24,09/30/24,Activated,Javier Baez,12979,595879
+Ben Joyce,LAA,RP,09/03/24,Shoulder impingement,Activated,09/07/24,09/22/24,09/30/24,Activated,Ben Joyce,31461,690829
+Max Meyer,MIA,SP,09/03/24,Shoulder bursitis,Activated,09/04/24,09/19/24,09/30/24,Activated,Max Meyer,27474,676974
+DJ LeMahieu,NYY,INF,09/03/24,Hip impingement,Activated,09/06/24,09/16/24,09/30/24,Activated,DJ LeMahieu,9874,518934
+Kyle Harrison,SFG,SP,09/03/24,Shoulder inflammation,Activated,09/04/24,09/19/24,09/30/24,Activated,Kyle Harrison,27758,690986
+Jeffrey Springs,TBR,SP,09/03/24,Elbow fatigue,Activated,09/05/24,09/20/24,09/30/24,Activated,Jeffrey Springs,17677,605488
+Derek Hill,MIA,OF,09/04/24,Shoulder impingement,Activated,09/05/24,09/15/24,09/19/24,Activated,Derek Hill,16947,656537
+Calvin Faucher,MIA,RP,09/04/24,Shoulder impingement,Activated,09/05/24,09/20/24,09/30/24,Activated,Calvin Faucher,20116,676534
+Henry Davis,PIT,C,09/04/24,Hand inflammation (left),Activated,09/05/24,09/15/24,09/30/24,Activated,Henry Davis,29617,680779
+Grant Anderson,TEX,RP,09/04/24,Ankle contusion,Activated,09/05/24,09/20/24,09/30/24,Activated,Grant Anderson,20546,681982
+Kevin Pillar,LAA,OF,09/06/24,Sprained thumb,Activated,09/07/24,09/17/24,09/20/24,Activated,Kevin Pillar,12434,607680
+Jo Adell,LAA,OF,09/06/24,Strained oblique,Activated,09/07/24,11/06/24,09/30/24,Activated,Jo Adell,20220,666176
+Jeff McNeil,NYM,2B/OF,09/06/24,Fractured wrist (right),Activated,09/07/24,09/17/24,09/30/24,Activated,Jeff McNeil,15362,643446
+Edmundo Sosa,PHI,INF,09/06/24,Back spasms,Activated,09/07/24,09/17/24,09/17/24,Activated,Edmundo Sosa,17022,624641
+Ky Bush,CHW,SP,09/07/24,Strained triceps,Activated,09/14/24,09/29/24,09/30/24,Activated,Ky Bush,29823,681066
+Drew Thorpe,CHW,SP,09/07/24,Elbow surgery (bone spur removal),Activated,08/01/24,08/16/24,09/30/24,Activated,Drew Thorpe,31967,689672
+Sam Moll,CIN,RP,09/07/24,Shoulder impingement,Activated,09/08/24,09/23/24,09/30/24,Activated,Sam Moll,14874,594580
+Anthony Rendon,LAA,3B,09/07/24,Strained oblique,Activated,09/08/24,09/18/24,09/30/24,Activated,Anthony Rendon,12861,543685
+Osvaldo Bido,OAK,SP,09/07/24,Wrist flexor tendinitis,Activated,09/08/24,09/23/24,09/30/24,Activated,Osvaldo Bido,23150,674370
+Paul Sewald,ARI,RP,09/08/24,Neck discomfort,Activated,09/12/24,09/27/24,09/30/24,Activated,Paul Sewald,13892,623149
+Ryne Nelson,ARI,SP,09/08/24,Shoulder inflammation,Activated,09/11/24,09/26/24,09/26/24,Activated,Ryne Nelson,26253,669194
+Ross Stripling,OAK,RP,09/08/24,Strained lower back,Activated,09/09/24,09/24/24,09/27/24,Activated,Ross Stripling,13273,548389
+Luis Castillo,SEA,SP,09/08/24,Strained hamstring,Activated,09/09/24,09/24/24,09/30/24,Activated,Luis Castillo,15689,622491
+Anthony Banda,LAD,RP,09/09/24,Fractured hand (left),Activated,09/10/24,09/25/24,09/30/24,Activated,Anthony Banda,14706,607455
+Reynaldo López,ATL,SP,09/10/24,Shoulder inflammation,Activated,09/11/24,09/26/24,09/28/24,Activated,Reynaldo Lopez,16400,625643
+Brennan Bernardino,BOS,RP,09/10/24,Elbow inflammation,Activated,09/11/24,09/26/24,09/30/24,Activated,Brennan Bernardino,16835,657514
+Brennen Davis,CHC,OF,09/10/24,Fractured ankle,Activated,09/13/24,11/12/24,09/30/24,Activated,Brennen Davis,sa3007876,680695
+Chas McCormick,HOU,OF,09/10/24,Fractured hand (right),Activated,09/11/24,09/21/24,09/30/24,Activated,Chas McCormick,19599,676801
+Miguel Andujar,OAK,OF,09/10/24,Core muscle surgery,Activated,08/25/24,10/24/24,09/30/24,Activated,Miguel Andujar,15878,609280
+Matt Foster,CHW,RP,09/11/24,Lower back disc herniation,Activated,09/12/24,09/27/24,09/30/24,Activated,Matt Foster,19647,641582
+John McMillon,MIA,RP,09/11/24,Elbow tightness,Activated,09/12/24,09/27/24,09/30/24,Activated,John McMillon,27942,669111
+Steven Kwan,CLE,OF,09/12/24,Back inflammation,Activated,09/14/24,09/24/24,09/25/24,Activated,Steven Kwan,24610,680757
+Chris Stratton,KCR,RP,09/13/24,Strained forearm flexor,Activated,09/14/24,09/29/24,09/30/24,Activated,Chris Stratton,13761,608717
+Marco Gonzales,PIT,SP,09/13/24,Flexor tendon surgery,Activated,08/09/24,10/08/24,09/30/24,Activated,Marco Gonzales,15467,594835
+José Ureña,TEX,RP,09/13/24,Shoulder fatigue,Activated,09/14/24,09/29/24,09/30/24,Activated,Jose Urena,11589,570632
+Corey Seager,TEX,SS,09/13/24,Sports hernia surgery,Activated,09/03/24,11/02/24,09/30/24,Activated,Corey Seager,13624,608369
+Ben Gamel,HOU,OF,09/14/24,Fractured leg (fibula),Activated,09/15/24,11/14/24,09/30/24,Activated,Ben Gamel,12160,592325
+José Marte,LAA,RP,09/14/24,Shoulder surgery,Activated,08/09/24,10/08/24,09/30/24,Activated,Jose Marte,21761,665896
+Mason McCoy,SDP,INF,09/14/24,Back inflammation,Activated,09/19/24,09/29/24,09/30/24,Activated,Mason McCoy,22232,669200
+Jordan Hicks,SFG,RP,09/14/24,Shoulder inflammation,Activated,09/17/24,10/02/24,09/30/24,Activated,Jordan Hicks,19618,663855
+Max Scherzer,TEX,SP,09/14/24,Strained hamstring,Activated,09/18/24,10/03/24,09/30/24,Activated,Max Scherzer,3137,453286
+Austin Barnes,LAD,C,09/15/24,Fractured toe,Activated,09/16/24,09/26/24,09/26/24,Activated,Austin Barnes,12158,605131
+Tayler Scott,HOU,RP,09/16/24,Strained back,Activated,09/18/24,10/03/24,09/30/24,Activated,Tayler Scott,13652,605463
+James McArthur,KCR,RP,09/16/24,Sprained elbow,Activated,09/17/24,10/02/24,09/30/24,Activated,James McArthur,21527,663704
+Kyle Nicolas,PIT,RP,09/16/24,Strained oblique,Activated,09/17/24,10/02/24,09/30/24,Activated,Kyle Nicolas,27775,693312
+Burch Smith,BAL,RP,09/17/24,Strained groin,Activated,09/18/24,10/03/24,09/30/24,Activated,Burch Smith,12784,572143
+Jordan Wicks,CHC,SP,09/17/24,Strained oblique,Activated,09/18/24,10/03/24,09/30/24,Activated,Jordan Wicks,30094,696136
+Lance Lynn,STL,SP,09/17/24,Knee inflammation,Activated,09/18/24,10/03/24,09/30/24,Activated,Lance Lynn,2520,458681
+Bo Bichette,TOR,SS,09/17/24,Fractured finger (right middle),Activated,09/18/24,09/28/24,09/30/24,Activated,Bo Bichette,19612,666182
+Sam Hentges,CLE,RP,09/18/24,Shoulder surgery,Activated,07/11/24,09/09/24,09/30/24,Activated,Sam Hentges,18548,656529
+Tyler Kinley,COL,RP,09/18/24,Elbow inflammation,Activated,09/19/24,10/04/24,09/30/24,Activated,Tyler Kinley,18297,641755
+Nestor Cortes,NYY,SP,09/18/24,Strained elbow flexor,Activated,09/22/24,10/07/24,09/30/24,Activated,Nestor Cortes,17874,641482
+Sonny Gray,STL,SP,09/18/24,Forearm flexor tendinits,Activated,09/19/24,10/04/24,09/30/24,Activated,Sonny Gray,12768,543243
+Josh Jung,TEX,3B,09/18/24,Wrist tendinitis,Activated,09/21/24,10/01/24,09/30/24,Activated,Josh Jung,26299,673962
+Rob Refsnyder,BOS,OF,09/19/24,Strained forearm,Activated,09/20/24,09/30/24,09/30/24,Activated,Rob Refsnyder,13770,608701
+Jorge López,CHC,RP,09/19/24,Strained groin,Activated,09/20/24,10/05/24,09/30/24,Activated,Jorge Lopez,14527,605347
+Julian Aguiar,CIN,SP,09/19/24,Sprained elbow,Activated,09/21/24,10/06/24,09/30/24,Activated,Julian Aguiar,30031,687924
+Rafael Devers,BOS,3B,09/20/24,Shoulder inflammation,Activated,09/21/24,10/01/24,09/30/24,Activated,Rafael Devers,17350,646240
+Jake Cousins,NYY,RP,09/20/24,Strained pectoral,Activated,09/21/24,10/06/24,09/30/24,Activated,Jake Cousins,21620,664776
+Will Wagner,TOR,2B,09/20/24,Knee surgery,Activated,09/14/24,11/13/24,09/30/24,Activated,Will Wagner,29634,695238
+JoJo Romero,STL,RP,09/21/24,Forearm inflammation,Activated,09/22/24,10/07/24,09/30/24,Activated,JoJo Romero,19574,668941
+Daulton Varsho,TOR,OF,09/21/24,Shoulder surgery (rotator cuff),Activated,09/14/24,11/13/24,09/30/24,Activated,Daulton Varsho,19918,662139
+Kenley Jansen,BOS,RP,09/22/24,Shoulder inflammation,Activated,09/23/24,10/08/24,09/30/24,Activated,Kenley Jansen,3096,445276
+Bryce Miller,SEA,SP,09/23/24,Blister (right index finger),Activated,09/25/24,10/10/24,09/30/24,Activated,Bryce Miller,29837,682243
+Brent Honeywell,LAD,RP,09/24/24,Cracked fingernail,Activated,09/25/24,10/10/24,09/30/24,Activated,Brent Honeywell,16466,641703
+Brusdar Graterol,LAD,RP,09/24/24,Shoulder inflammation,Activated,09/25/24,10/10/24,09/30/24,Activated,Brusdar Graterol,20367,660813
+Jose Miranda,MIN,3B/1B,09/24/24,Strained lower back,Activated,09/25/24,10/05/24,09/30/24,Activated,Jose Miranda,20538,669304
+Matt Wallner,MIN,OF,09/24/24,Strained oblique,Activated,09/25/24,10/05/24,09/30/24,Activated,Matt Wallner,26466,670242
+Esteury Ruiz,OAK,OF,09/24/24,Arthroscopic knee surgery,Activated,05/23/24,07/22/24,09/30/24,Activated,Esteury Ruiz,21780,665923
+Josh Sborz,TEX,RP,09/24/24,Shoulder fatigue,Activated,09/25/24,10/10/24,09/30/24,Activated,Josh Sborz,18323,622250
+Declan Cronin,MIA,RP,09/25/24,Knee tendinitis,Activated,09/26/24,10/11/24,09/30/24,Activated,Declan Cronin,25645,686539
+Trevor Larnach,MIN,OF,09/26/24,Strained hamstring,Activated,09/27/24,10/07/24,09/30/24,Activated,Trevor Larnach,21501,663616
+Mark Canha,SFG,OF/1B,09/28/24,Sprained thumb,Activated,09/29/24,10/09/24,09/30/24,Activated,Mark Canha,11445,592192
+Gavin Stone,LAD,SP,10/09/24,Shoulder surgery,Activated,09/03/24,11/02/24,09/30/24,Activated,Gavin Stone,27792,694813
+Ha-Seong Kim,SDP,SS,10/10/24,Shoulder surgery (labrum repair),Activated,08/19/24,08/29/24,09/30/24,Activated,Ha-Seong Kim,27506,673490
