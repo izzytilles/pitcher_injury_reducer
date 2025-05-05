@@ -5,20 +5,20 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
+## STATE 3
 
 def main():
     injury_page = pd.read_csv("csv_files/injury_report_24.csv")
     pitch_breakdown = pd.read_csv("csv_files/fangraphs_leaderboard_all_pitchers.csv")
 
     injured_pitchers = injury_page[injury_page["Pos"] == "SP"]
-    injured_pitchers_with_age = pd.merge(injured_pitchers, pitch_breakdown, on="Name", how="inner")
 
     merged = pd.merge(
         pitch_breakdown,
         injured_pitchers,
         on="Name",        
         how="left",       # keep all pitchers
-        indicator=True    # adds a "_merge" column
+        indicator=True    # adds a "_merge" column to check if pitcher was injured or not
     )
 
     # add classification of 1 if injured, 0 if not
@@ -50,13 +50,14 @@ def main():
 
     value, best_plan = myutils.expectimax_with_path(
         initial_state,
-        depth=6,
-        is_chance_node=False,
+        depth=7,
+        is_chance_node=True,
         pipeline=pipeline
     )
 
     print(f"Expected total innings: {value:.2f}")
     print("Best action sequence:", best_plan)
+    
 
 
 if __name__ == "__main__":

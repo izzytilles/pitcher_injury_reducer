@@ -5,15 +5,6 @@ from sklearn.impute import SimpleImputer
 import numpy as np
 import random
 
-# need to combine pitcher speed table and pitcher rotations table and pitchers innings pitched table 
-# desired columns: pitch speed, rotations/pitch, % of time throwing fastball, average innings pitched (innings/games)
-#   need to look at that in comparison with the injury table info
-# Vfa is 4 seam velo
-
-# HAVE: pitch speed, innings, games, % of time throwing each pitch, 
-
-# from injury table: need functionto calculate how many games the pitcher missed (injury/surgery date - return date)
-
 def calc_days_missed(injury_date, return_date):
     """
     calculate the number of days between two dates.
@@ -69,6 +60,8 @@ def calc_cost_function(avg_pitches, games_played, pitch_pct_dict, velo_dict, spi
     cost_function = pitch_num_coeff * workload_risk + velo_and_spin_coeff * stress_factor + age_coeff * age_penalty
     return cost_function
 
+# BEGINNING OF CODE FOR ITERATION 3 
+
 def injury_probability(state, pipeline):
     """
     Compute probability of injury from a state using trained logistic model.
@@ -80,59 +73,51 @@ def injury_probability(state, pipeline):
     Returns:
         float: Probability between 0 and 1.
     """
-    # features = ['Age', 'IP', 'vFA (pi)', 'FB%', 'SL%', 'CH%']
-    # X = pd.DataFrame([state])[features]
-    # prob = pipeline.predict_proba(X)[0][1]  # probability of class 1 = injury
-    # return prob
+
     input_features = ['Age', 'IP', 'vFA (pi)', 'FB%', 'SL%', 'CH%']
     x = pd.DataFrame([state])[input_features]
     prob = pipeline.predict_proba(x)[0][1]
 
     # Apply fatigue penalty or rest bonus
     rest_days = state.get('rest_days', 0)
-    fatigue_modifier = 1.0 - min(rest_days * 0.1, 0.3)  # up to 50% injury reduction
+    fatigue_modifier = 1.0 - min(rest_days * 0.1, 0.3)  # up to 30% injury reduction
     adjusted_prob = prob * fatigue_modifier
 
     return min(max(adjusted_prob, 0), 1)
+
+def injury_penalty(state):
+    age = state["Age"]
+    if age < 25:
+        return -5
+    elif age < 30:
+        return -10
+    else:
+        return -15
 
 def evaluate_state(state, pipeline=None):
     """
     Assigns a value to a final state (e.g., based on innings, no injury).
     """
-    # base_reward = state["IP"]
-
-    # if pipeline:
-    #     p_injury = injury_probability(state, pipeline)
-    #     penalty = p_injury * abs(injury_penalty(state))
-    #     return base_reward - penalty
-    # else:
-    #     return base_reward
     base_reward = state["IP"]
 
-    # Penalize high IP without rest (fatigue multiplier)
+    # penalize high IP without rest (fatigue multiplier)
     fatigue_penalty = 0.1 * state.get('consecutive_starts', 0)
     base_reward -= fatigue_penalty
 
     if pipeline:
         p_injury = injury_probability(state, pipeline)
-        penalty = p_injury * abs(injury_penalty(state))
+        penalty = (p_injury ** 2) * abs(injury_penalty(state))
         return base_reward - penalty
     return base_reward
 
-def get_possible_actions():
-    """
-    Return list of valid actions. For now, just 'pitch' or 'rest'.
-    """
-    return ['pitch', 'rest']
 
-def injury_penalty(state):
-    age = state["Age"]
-    if age < 25:
-        return -10  # bounce back faster
-    elif age < 30:
-        return -20
-    else:
-        return -30  # aging arm, worse outcome
+def get_possible_actions(state):
+    """
+    Returns valid actions - empty list if injured
+    """
+    if state.get('injured', False):
+        return []  # injured pitcher is out for season
+    return ['rest'] + (['pitch'] if state.get('consecutive_starts', 0) < 5 else [])
 
 
 def transition(state, action):
@@ -141,36 +126,22 @@ def transition(state, action):
 
     Returns a new state dict.
     """
-    # new_state = state.copy()
-
-    # # Increase age slightly each step
-    # new_state['Age'] += 0.01
-
-    # if action == 'rest':
-    #     # Rest recovers the arm: lower velocity a bit (simulate cooldown), and reduce IP fatigue
-    #     new_state['vFA (pi)'] = max(new_state['vFA (pi)'] - 0.1, 85.0)
-    #     new_state['IP'] = max(0, new_state['IP'] - 1)
-    # elif action == 'pitch':
-    #     new_state['IP'] += 5
-    #     new_state['vFA (pi)'] += 0.05  # simulate increased stress
-    # elif action == 'injured':
-    #     # If injured, must rest and cannot throw
-    #     new_state['vFA (pi)'] -= 0.5
-    #     new_state['IP'] = max(0, new_state['IP'] - 10)
-
-    # return new_state
     new_state = state.copy()
-    vFA = new_state.get('vFA (pi)', 95.0)  # Default velocity
+    if new_state.get('injured', False):
+        return new_state
+    vFA = new_state.get('vFA (pi)', 95.0)  # default velocity
 
     if action == 'pitch':
-        new_state['IP'] += random.uniform(4.0, 7.0)
+        new_state['IP'] += random.uniform(4.0, 7.0) # typical start length 
         new_state['rest_days'] = 0
-        new_state['vFA (pi)'] = vFA - 0.3  # Fatigue effect
+        new_state['vFA (pi)'] = vFA - 0.3  # fatigue effect - lower velo
         new_state['consecutive_starts'] = state.get('consecutive_starts', 0) + 1
     elif action == 'rest':
         new_state['rest_days'] += 1
-        new_state['vFA (pi)'] = min(vFA + 0.2, 98.0)  # Recovery (capped)
+        new_state['vFA (pi)'] = min(vFA + 0.2, 98.0)  # recovery benefits (capped)
         new_state['consecutive_starts'] = 0
+    elif action == 'injured':
+        new_state['injured'] = True
 
     return new_state
     
@@ -188,56 +159,31 @@ def expectimax_with_path(state, depth, is_chance_node, pipeline):
     Returns:
         float: Expected utility of this state
     """
-
-    # if depth == 0:
-    #     return evaluate_state(state, pipeline), []
-
-    # if is_chance_node:
-    #     p_injury = injury_probability(state, pipeline)
-    #     penalty = injury_penalty(state)
-
-    #     # If injured, future innings = 0
-    #     injury_value = penalty
-    #     healthy_value, healthy_path = expectimax_with_path(state, depth - 1, False, pipeline)
-    #     expected_value = p_injury * injury_value + (1 - p_injury) * healthy_value
-    #     return expected_value, healthy_path
-
-    # else:
-    #     best_value = float('-inf')
-    #     best_path = []
-    #     for action in get_possible_actions():
-    #         next_state = transition(state, action)
-    #         value, path = expectimax_with_path(next_state, depth, True, pipeline)
-    #         print(value, action)
-
-    #         if value > best_value:
-    #             best_value = value
-    #             best_path = [action] + path
-
-    #     return best_value, best_path
-    if depth == 0:
+    if depth == 0 or state.get('injured', False):
         return evaluate_state(state, pipeline), []
 
     if is_chance_node:
         p_injury = injury_probability(state, pipeline)
-        penalty = injury_penalty(state)
-        injured_state = transition(state, 'injured')
+
+        injured_state = transition(state.copy(), 'injured')
         injury_value, _ = expectimax_with_path(injured_state, depth-1, False, pipeline)
-        healthy_value, healthy_path = expectimax_with_path(state, depth-1, False, pipeline)
+        
+        healthy_value, healthy_path = expectimax_with_path(state.copy(), depth-1, False, pipeline)
+        
         expected_value = p_injury * injury_value + (1 - p_injury) * healthy_value
         return expected_value, healthy_path
 
     best_value = float('-inf')
     best_path = []
-    for action in get_possible_actions():
-        # Force rest after 5 consecutive starts
+    for action in get_possible_actions(state):
+        # force rest after 5 consecutive starts
         if state.get('consecutive_starts', 0) >= 5 and action == 'pitch':
             continue
 
         next_state = transition(state, action)
         value, path = expectimax_with_path(next_state, depth, True, pipeline)
 
-        if value > best_value or (random.random() < 0.1):  # 10% exploration
+        if value > best_value or (random.random() < 0.1):  # 10% of the time, exploration allowed
             best_value = value
             best_path = [action] + path
 
@@ -248,17 +194,18 @@ def get_user_input():
     print("Enter pitcher's initial state:")
     
     state = {
-        'Age': int(input("Age (e.g., 27): ")),
-        'IP': float(input("Innings Pitched (e.g., 30.0): ")),
-        'vFA (pi)': float(input("Fastball Velocity (e.g., 95.0): ")),
-        'FB%': int(input("Fastball Usage % (e.g., 50): ")),
-        'SL%': int(input("Slider Usage % (e.g., 25): ")),
-        'CH%': int(input("Changeup Usage % (e.g., 10): ")),
-        'rest_days': int(input("Recent Rest Days (e.g., 0): ")),
-        'consecutive_starts': int(input("Consecutive Starts (e.g., 0): "))
+        'Age': int(input("Age (e.g., 27): ") or 27),
+        'IP': float(input("Innings Pitched (e.g., 30.0): ") or 30),
+        'vFA (pi)': float(input("Fastball Velocity (e.g., 95.0): ") or 95),
+        'FB%': int(input("Fastball Usage % (e.g., 50): ") or 50),
+        'SL%': int(input("Slider Usage % (e.g., 25): ") or 25),
+        'CH%': int(input("Changeup Usage % (e.g., 10): ") or 10),
+        'rest_days': int(input("Recent Rest Days (e.g., 0): ") or 0),
+        'consecutive_starts': int(input("Consecutive Starts (e.g., 0): ") or 0),
+        'injured': False
     }
     
-    # Validate pitch mix sums to <= 100%
+    # validate pitch mix sums to <= 100%
     total_pitch = state['FB%'] + state['SL%'] + state['CH%']
     if total_pitch > 100:
         raise ValueError("Pitch percentages exceed 100%")

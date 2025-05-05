@@ -1,5 +1,7 @@
 import heapq
 
+## STATE 2
+
 class PitcherState:
     def __init__(self, avg_pitches, pitch_breakdown, velo_dict, spin_dict, games_played, cumulative_risk):
         self.avg_pitches = avg_pitches  # average number of pitches thrown per game
